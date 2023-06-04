@@ -1,4 +1,5 @@
 <?php
+
 /**
  * @var Kahlan\Cli\Kahlan $this
  */
@@ -12,4 +13,3 @@ $commandLine->option('ff', 'default', 1);
 
 const DS = DIRECTORY_SEPARATOR;
 const FIXTURES_DIR = __DIR__ . DS . 'tests' . DS . 'fixtures' . DS;
-
