@@ -37,8 +37,8 @@
             "@lcov:html",
             "@lcov:open"
         ],
-        "lcov:generate": "kahlan --coverage=4 --lcov=lcov/coverage.info",
-        "lcov:html": "genhtml --output-directory lcov/public/ lcov/coverage.info",
+        "lcov:generate": "kahlan --coverage=4 --lcov=coverage.info",
+        "lcov:html": "genhtml --output-directory lcov/public/ coverage.info",
         "lcov:open": "open lcov/public/index.html",
         "test-ci": "kahlan --coverage --clover=coverage.xml",
         "check": [
