@@ -49,12 +49,11 @@ $data = [
 $newPost = $client->createPost($data);
 ```
 
-For more detailed usage examples and available methods, please refer to the 
-<a href="https://wordpressapi.readthedocs.io/en/latest/" target="_new">documentation</a>.
+For more detailed usage examples and available methods, please refer to the documentation coming soon.
 
 ## Contribution
 Contributions are welcome! If you find a bug, have suggestions for improvements, or would like to add new features,
-please submit an issue or a pull request. Make sure to follow our [contribution guidelines](CONTRIBUTION_GUIDELINES)
+please submit an issue or a pull request. Make sure to follow our [contribution guidelines](CONTRIBUTION_GUIDELINES.md)
 
 ## License
 WPRestClient is open-source software licensed under the [MIT license](LICENSE)
