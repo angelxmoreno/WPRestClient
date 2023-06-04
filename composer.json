@@ -47,7 +47,7 @@
         ],
         "cs-check": "phpcs",
         "cs-fix": "phpcbf",
-        "md-check": "phpmd src,tests,docs text ruleset",
+        "md-check": "phpmd src,tests text ruleset",
         "docs:serve": "mkdocs serve",
         "docs:build": "mkdocs build && open site/index.html"
     }
