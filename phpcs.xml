@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ruleset name="A Custom Standard">
+    <description>A Template for extending from PSR12</description>
+
+    <arg name="colors"/>
+    <arg value="psn"/>
+
+    <file>./docs</file>
+    <file>./src</file>
+    <file>./tests</file>
+
+    <exclude-pattern>*/docs/build/*</exclude-pattern>
+
+    <rule ref="PSR12">
+        <exclude name="PSR2.Classes.PropertyDeclaration.Underscore"/>
+        <exclude name="PSR2.Methods.MethodDeclaration.Underscore"/>
+    </rule>
+</ruleset>
