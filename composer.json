@@ -1,0 +1,18 @@
+{
+    "name": "angelxmoreno/wprestclient",
+    "description": "WPRestClient is a PHP library for seamless WordPress site interaction via the RESTful API",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "WPRestClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Angel S. Moreno",
+            "email": "angelxmoreno@gmail.com"
+        }
+    ],
+    "require": {}
+}
