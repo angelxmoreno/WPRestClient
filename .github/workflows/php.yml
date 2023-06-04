@@ -55,4 +55,4 @@ jobs:
           verbose: true
 
       - name: Upload to Codacy
-        run: bash <(curl -Ls https://coverage.codacy.com/get.sh) report -r ./coverage.xml --project-token=${{ secrets.CODACY_PROJECT_TOKEN }}
+        run: bash <(curl -Ls https://coverage.codacy.com/get.sh) report -r coverage.info --project-token=${{ secrets.CODACY_PROJECT_TOKEN }}
