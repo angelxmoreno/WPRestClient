@@ -47,7 +47,7 @@
         ],
         "cs-check": "phpcs",
         "cs-fix": "phpcbf",
-        "md-check": "phpmd src,tests text ruleset",
+        "md-check": "phpmd src,tests,kahlan-config.php text ruleset",
         "docs:serve": "mkdocs serve",
         "docs:build": "mkdocs build && open site/index.html"
     }
