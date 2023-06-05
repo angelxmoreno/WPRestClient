@@ -25,6 +25,6 @@ class GuzzleMockBuilder
     {
         $data = Fixture::load($name);
         $json = json_encode($data);
-        return self::withResponse($json);
+        return self::withResponse($json, $status, $headers);
     }
 }
