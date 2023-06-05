@@ -1,54 +1,54 @@
 {
-    "name": "angelxmoreno/wprestclient",
-    "description": "WPRestClient is a PHP library for seamless WordPress site interaction via the RESTful API",
-    "type": "library",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "WPRestClient\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "WPRestClient\\Test\\": "tests/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Angel S. Moreno",
-            "email": "angelxmoreno@gmail.com"
-        }
-    ],
-    "require": {
-        "cakephp/utility": "^4.4",
-        "php": "^7.4",
-        "ext-json": "*",
-        "guzzlehttp/guzzle": "^7.7"
-    },
-    "require-dev": {
-        "squizlabs/php_codesniffer": "^3.7",
-        "phpmd/phpmd": "^2.13",
-        "kahlan/kahlan": "^5.2"
-    },
-    "scripts": {
-        "test": "kahlan",
-        "coverage": [
-            "@lcov:generate",
-            "@lcov:html",
-            "@lcov:open"
-        ],
-        "lcov:generate": "kahlan --coverage=4 --lcov=coverage.info",
-        "lcov:html": "genhtml --output-directory lcov/public/ coverage.info",
-        "lcov:open": "open lcov/public/index.html",
-        "test-ci": "kahlan --coverage --lcov=coverage.info",
-        "check": [
-            "@cs-check",
-            "@md-check"
-        ],
-        "cs-check": "phpcs",
-        "cs-fix": "phpcbf",
-        "md-check": "phpmd src,tests,kahlan-config.php text ruleset",
-        "docs:serve": "mkdocs serve",
-        "docs:build": "mkdocs build && open site/index.html"
+  "name": "angelxmoreno/wprestclient",
+  "description": "WPRestClient is a PHP library for seamless WordPress site interaction via the RESTful API",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "WPRestClient\\": "src/"
     }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "WPRestClient\\Test\\": "tests/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Angel S. Moreno",
+      "email": "angelxmoreno@gmail.com"
+    }
+  ],
+  "require": {
+    "cakephp/utility": "^4.4",
+    "php": "^7.4",
+    "ext-json": "*",
+    "guzzlehttp/guzzle": "^7.7"
+  },
+  "require-dev": {
+    "squizlabs/php_codesniffer": "^3.7",
+    "phpmd/phpmd": "^2.13",
+    "kahlan/kahlan": "^5.2"
+  },
+  "scripts": {
+    "test": "kahlan",
+    "coverage": [
+      "@lcov:generate",
+      "@lcov:html",
+      "@lcov:open"
+    ],
+    "lcov:generate": "kahlan --coverage=4 --lcov=coverage.info",
+    "lcov:html": "genhtml --output-directory lcov/public/ coverage.info",
+    "lcov:open": "open lcov/public/index.html",
+    "test-ci": "kahlan --coverage --lcov=coverage.info",
+    "check": [
+      "@cs-check",
+      "@md-check"
+    ],
+    "cs-check": "phpcs",
+    "cs-fix": "phpcbf",
+    "md-check": "phpmd src,tests,kahlan-config.php text phpmd.xml",
+    "docs:serve": "mkdocs serve",
+    "docs:build": "mkdocs build && open site/index.html"
+  }
 }
