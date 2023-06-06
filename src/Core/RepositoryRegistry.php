@@ -61,7 +61,7 @@ class RepositoryRegistry
      * @param string $alias
      * @return string|RepositoryBase
      */
-    protected function getRepository(string $alias): string
+    public function getRepository(string $alias): string
     {
         if (!isset($this->repositories[$alias])) {
             throw new RuntimeException(sprintf('%s is not a valid repository alias', $alias));
@@ -70,5 +70,10 @@ class RepositoryRegistry
         $repository = $this->repositories[$alias];
         $repository::setApiClient($this->apiClient);
         return $repository;
+    }
+
+    public function getAliases(): array
+    {
+        return array_keys($this->repositories);
     }
 }

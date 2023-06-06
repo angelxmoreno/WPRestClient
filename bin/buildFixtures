@@ -1,0 +1,31 @@
+#!/usr/local/bin/php
+<?php
+declare(strict_types=1);
+
+use WPRestClient\Core\ApiClient;
+use WPRestClient\Test\Helpers\BuildFixtures;
+
+const DS = DIRECTORY_SEPARATOR;
+const AUTOLOADER = __DIR__ . DS . '..' . DS . 'vendor' . DS . 'autoload.php';
+const FIXTURES_DIR = __DIR__ . DS . '..' . DS . 'tests' . DS . 'fixtures' . DS;
+
+include AUTOLOADER;
+
+function error(string $msg)
+{
+    echo "\033[31m$msg \033[0m\n";
+    exit(0);
+}
+
+if (!isset($argv[1])) {
+    error("The first argument, \"base uri\", is missing");
+}
+
+$apiClient = new ApiClient($argv[1]);
+$builder = new BuildFixtures($apiClient);
+
+try {
+    $builder->buildFixtures();
+} catch (Throwable $exception) {
+    error($exception->getMessage());
+}
