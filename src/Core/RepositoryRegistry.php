@@ -7,7 +7,7 @@ namespace WPRestClient\Core;
 use RuntimeException;
 use UnexpectedValueException;
 use WPRestClient\Core\Repository\RepositoryBase;
-use WPRestClient\Repository\PostsRepository;
+use WPRestClient\Repository;
 
 class RepositoryRegistry
 {
@@ -17,7 +17,13 @@ class RepositoryRegistry
      * @var RepositoryBase[]
      */
     protected array $repositories = [
-        'posts' => PostsRepository::class,
+        'categories' => Repository\CategoriesRepository::class,
+        'comments' => Repository\CommentsRepository::class,
+        'medias' => Repository\MediasRepository::class,
+        'pages' => Repository\PagesRepository::class,
+        'posts' => Repository\PostsRepository::class,
+        'tags' => Repository\TagsRepository::class,
+        'users' => Repository\UsersRepository::class,
     ];
 
     /**
