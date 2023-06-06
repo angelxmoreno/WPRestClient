@@ -1,0 +1,26 @@
+{
+    "id": 3,
+    "name": "Christiana",
+    "url": "http:\/\/www.dubuque.com\/ut-id-odit-sit-alias-quas-reprehenderit-sunt.html",
+    "description": "Ut necessitatibus eaque sit error a cum ipsa. Eos impedit occaecati similique. Ut voluptatem qui sint quia sunt corporis error. Ipsum consequuntur cupiditate et inventore.\r\n\r\nEum et labore eligendi quos ullam optio impedit. Cum qui rerum temporibus blanditiis. Ut odio dolorem aut et culpa accusantium quae. Et numquam sed atque laborum dolores ut ipsam aperiam.",
+    "link": "http:\/\/angelm106.sg-host.com\/author\/johnson-josephine\/",
+    "slug": "johnson-josephine",
+    "avatar_urls": {
+        "24": "http:\/\/0.gravatar.com\/avatar\/c87a0a604090aade913dec4d9ecdfdf2?s=24&d=mm&r=g",
+        "48": "http:\/\/0.gravatar.com\/avatar\/c87a0a604090aade913dec4d9ecdfdf2?s=48&d=mm&r=g",
+        "96": "http:\/\/0.gravatar.com\/avatar\/c87a0a604090aade913dec4d9ecdfdf2?s=96&d=mm&r=g"
+    },
+    "meta": [],
+    "_links": {
+        "self": [
+            {
+                "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/users\/3"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/users"
+            }
+        ]
+    }
+}

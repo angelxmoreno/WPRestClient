@@ -34,7 +34,7 @@ class BuildFixtures
             $repository = $this->registry->getRepository($alias);
             $uri = $repository::getPath();
             $collection = $this->apiClient->sendRequest('get', $uri);
-            Fixture::generate($uri, $collection);
+            Fixture::generate(Inflector::pluralize($uri), $collection);
 
             $firstId = Hash::get($collection, '0.id');
 

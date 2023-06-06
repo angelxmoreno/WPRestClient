@@ -1,0 +1,40 @@
+{
+    "id": 10,
+    "count": 6,
+    "description": "Reiciendis in sed unde sit laborum et sed distinctio",
+    "link": "http:\/\/angelm106.sg-host.com\/category\/enim-et\/",
+    "name": "Enim et",
+    "slug": "enim-et",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+        "self": [
+            {
+                "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories\/10"
+            }
+        ],
+        "collection": [
+            {
+                "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories"
+            }
+        ],
+        "about": [
+            {
+                "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/category"
+            }
+        ],
+        "wp:post_type": [
+            {
+                "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?categories=10"
+            }
+        ],
+        "curies": [
+            {
+                "name": "wp",
+                "href": "https:\/\/api.w.org\/{rel}",
+                "templated": true
+            }
+        ]
+    }
+}

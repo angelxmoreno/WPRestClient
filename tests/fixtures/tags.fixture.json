@@ -1,0 +1,158 @@
+[
+    {
+        "id": 7,
+        "count": 6,
+        "description": "Consectetur at ipsam laboriosam quia quas ratione dolorem harum minus repudiandae aut vero illo et dolorem in quis magnam ut quas quod debitis autem repellendus dolores tempore aut laboriosam eius voluptatem exercitationem aspernatur dolores aut sint molestias quis iusto modi dolores sed et ipsam rerum adipisci voluptas aliquid excepturi officia dolorem molestias sit",
+        "link": "http:\/\/angelm106.sg-host.com\/tag\/aut-dolorem-debitis-cum\/",
+        "name": "Aut dolorem debitis cum",
+        "slug": "aut-dolorem-debitis-cum",
+        "taxonomy": "post_tag",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/tags\/7"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/tags"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/post_tag"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?tags=7"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "count": 8,
+        "description": "Animi doloremque ut ea est delectus sint expedita et quis dolores et et cumque dolor nulla autem dolor enim alias consequatur sint illum dignissimos quia impedit corporis occaecati omnis vel suscipit voluptatibus ut quo illum rerum voluptatum",
+        "link": "http:\/\/angelm106.sg-host.com\/tag\/dolorem-et\/",
+        "name": "Dolorem et",
+        "slug": "dolorem-et",
+        "taxonomy": "post_tag",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/tags\/11"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/tags"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/post_tag"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?tags=11"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "count": 5,
+        "description": "Quibusdam et in quia et qui qui quisquam dolores consequatur id excepturi aut dolorum explicabo et nulla quia dicta laborum ratione iure dolorum id ut sunt pariatur quas autem repellat ut dolores ullam sapiente facere nesciunt repellendus quis ipsum et eum expedita unde",
+        "link": "http:\/\/angelm106.sg-host.com\/tag\/excepturi-soluta\/",
+        "name": "Excepturi soluta",
+        "slug": "excepturi-soluta",
+        "taxonomy": "post_tag",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/tags\/8"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/tags"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/post_tag"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?tags=8"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "count": 7,
+        "description": "Tenetur aspernatur est nihil ut laborum a deleniti labore sed dolorum voluptatem recusandae nostrum beatae tenetur libero aut eum et sapiente tempora quod et voluptatem harum amet aut numquam sunt et est ducimus ut eveniet iusto laudantium sunt consequatur in sint ipsam in officiis sequi laudantium est",
+        "link": "http:\/\/angelm106.sg-host.com\/tag\/sapiente\/",
+        "name": "Sapiente",
+        "slug": "sapiente",
+        "taxonomy": "post_tag",
+        "meta": [],
+        "_links": {
+            "self": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/tags\/9"
+                }
+            ],
+            "collection": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/tags"
+                }
+            ],
+            "about": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/post_tag"
+                }
+            ],
+            "wp:post_type": [
+                {
+                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?tags=9"
+                }
+            ],
+            "curies": [
+                {
+                    "name": "wp",
+                    "href": "https:\/\/api.w.org\/{rel}",
+                    "templated": true
+                }
+            ]
+        }
+    }
+]
