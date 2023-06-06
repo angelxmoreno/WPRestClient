@@ -35,6 +35,9 @@ abstract class EntityBase
             }
             $this->_properties[] = $name;
             $value = Hash::get($data, $name);
+            if (is_array($value) && Hash::check($value, 'rendered')) {
+                $value = Hash::get($value, 'rendered');
+            }
             $setterMethod = self::propertyToMethod('set', $name);
             method_exists($this, $setterMethod)
                 ? $this->{$setterMethod}($value)
