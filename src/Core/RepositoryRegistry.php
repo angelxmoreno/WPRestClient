@@ -7,7 +7,7 @@ namespace WPRestClient\Core;
 use RuntimeException;
 use UnexpectedValueException;
 use WPRestClient\Core\Repository\RepositoryBase;
-use WPRestClient\Repository\PostsRepository;
+use WPRestClient\Repository;
 
 class RepositoryRegistry
 {
@@ -17,7 +17,13 @@ class RepositoryRegistry
      * @var RepositoryBase[]
      */
     protected array $repositories = [
-        'posts' => PostsRepository::class,
+        'categories' => Repository\CategoriesRepository::class,
+        'comments' => Repository\CommentsRepository::class,
+        'medias' => Repository\MediasRepository::class,
+        'pages' => Repository\PagesRepository::class,
+        'posts' => Repository\PostsRepository::class,
+        'tags' => Repository\TagsRepository::class,
+        'users' => Repository\UsersRepository::class,
     ];
 
     /**
@@ -61,7 +67,7 @@ class RepositoryRegistry
      * @param string $alias
      * @return string|RepositoryBase
      */
-    protected function getRepository(string $alias): string
+    public function getRepository(string $alias): string
     {
         if (!isset($this->repositories[$alias])) {
             throw new RuntimeException(sprintf('%s is not a valid repository alias', $alias));
@@ -70,5 +76,10 @@ class RepositoryRegistry
         $repository = $this->repositories[$alias];
         $repository::setApiClient($this->apiClient);
         return $repository;
+    }
+
+    public function getAliases(): array
+    {
+        return array_keys($this->repositories);
     }
 }

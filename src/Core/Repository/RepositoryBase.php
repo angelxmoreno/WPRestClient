@@ -62,10 +62,10 @@ abstract class RepositoryBase implements RepositoryInterface
      */
     public static function fetch(array $params = []): array
     {
-        $data = self::getApiClient()->sendRequest('get', self::getPath(), $params);
+        $response = self::getApiClient()->sendRequest('get', self::getPath(), $params);
         $entityClass = static::getEntityClass();
         $entities = [];
-        foreach ($data as $datum) {
+        foreach ($response['data'] as $datum) {
             $entities[] = new $entityClass($datum);
         }
         return $entities;
@@ -76,8 +76,8 @@ abstract class RepositoryBase implements RepositoryInterface
      */
     public static function get(int $id, array $params = []): EntityBase
     {
-        $data = self::getApiClient()->sendRequest('get', self::getPath() . '/' . $id, $params);
+        $response = self::getApiClient()->sendRequest('get', self::getPath() . '/' . $id, $params);
         $entityClass = static::getEntityClass();
-        return new $entityClass($data);
+        return new $entityClass($response['data']);
     }
 }

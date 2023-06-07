@@ -1,5 +1,5 @@
 {
-  "id": 1,
+  "id": 765,
   "date": "2023-06-03T04:06:18",
   "date_gmt": "2023-06-03T04:06:18",
   "guid": {
@@ -10,7 +10,7 @@
   "slug": "using-cakephp",
   "status": "publish",
   "type": "post",
-  "link": "http:\/\/angelm106.sg-host.com\/using-cakephp\/",
+  "link": " https:\/\/example..com\/using-cakephp\/",
   "title": {
     "rendered": "Using CakePHP"
   },
@@ -52,64 +52,64 @@
   "_links": {
     "self": [
       {
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts\/765"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts\/765"
       }
     ],
     "collection": [
       {
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts"
       }
     ],
     "about": [
       {
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/types\/post"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/types\/post"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/users\/1"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/users\/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/comments?post=765"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/comments?post=765"
       }
     ],
     "version-history": [
       {
         "count": 3,
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts\/765\/revisions"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts\/765\/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 781,
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts\/765\/revisions\/781"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts\/765\/revisions\/781"
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/media\/779"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/media\/779"
       }
     ],
     "wp:attachment": [
       {
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/media?parent=765"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/media?parent=765"
       }
     ],
     "wp:term": [
       {
         "taxonomy": "category",
         "embeddable": true,
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories?post=765"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories?post=765"
       },
       {
         "taxonomy": "post_tag",
         "embeddable": true,
-        "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/tags?post=765"
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/tags?post=765"
       }
     ],
     "curies": [

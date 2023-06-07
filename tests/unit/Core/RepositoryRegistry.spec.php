@@ -20,12 +20,23 @@ describe(RepositoryRegistry::class, function () {
         return new RepositoryRegistry($api);
     });
 
-    describe('->posts()', function () {
+    describe('->getRepository()', function () {
         it('returns ' . PostsRepository::class, function () {
             expect($this->registry->posts())->toBe(PostsRepository::class);
             expect(function () {
                 $this->registry->post();
             })->toThrow(new RuntimeException());
+        });
+    });
+
+    describe('->getAliases()', function () {
+        it('returns the array of alias name', function () {
+            $reflection = new ReflectionProperty(RepositoryRegistry::class, 'repositories');
+            $reflection->setAccessible(true);
+            $repositories = $reflection->getValue($this->registry);
+            $actual = $this->registry->getAliases();
+            expect($actual)->toBeAn('array');
+            expect($actual)->toBe(array_keys($repositories));
         });
     });
 

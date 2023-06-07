@@ -76,12 +76,12 @@ class ApiClient
     /**
      * @throws GuzzleException
      */
-    public function doRequest(RequestInterface $request): array
+    protected function doRequest(RequestInterface $request): array
     {
-
         $response = $this->httpClient->send($request);
         $jsonString = $response->getBody()->getContents();
-//        Fixture::generate(str_replace('/', '.', trim($request->getUri()->getPath(), '/')), json_decode($jsonString, true));
-        return json_decode($jsonString, true);
+        $data = json_decode($jsonString, true);
+        $headers = $response->getHeaders();
+        return compact('data', 'headers');
     }
 }

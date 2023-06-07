@@ -1,0 +1,41 @@
+{
+  "id": 1,
+  "post": 765,
+  "parent": 0,
+  "author": 0,
+  "author_name": "John",
+  "author_url": "http:\/\/angelm106.sg-host.com\/",
+  "date": "2023-06-04T18:21:41",
+  "date_gmt": "2023-06-04T18:21:41",
+  "content": {
+    "rendered": "<p>This is the song that never ends. it goes on and on<\/p>\n"
+  },
+  "link": " https:\/\/example..com\/using-cakephp\/#comment-1",
+  "status": "approved",
+  "type": "comment",
+  "author_avatar_urls": {
+    "24": "https:\/\/secure.gravatar.com\/avatar\/d4c74594d841139328695756648b6bd6?s=24&d=mm&r=g",
+    "48": "https:\/\/secure.gravatar.com\/avatar\/d4c74594d841139328695756648b6bd6?s=48&d=mm&r=g",
+    "96": "https:\/\/secure.gravatar.com\/avatar\/d4c74594d841139328695756648b6bd6?s=96&d=mm&r=g"
+  },
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/comments\/1"
+      }
+    ],
+    "collection": [
+      {
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/comments"
+      }
+    ],
+    "up": [
+      {
+        "embeddable": true,
+        "post_type": "post",
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts\/765"
+      }
+    ]
+  }
+}

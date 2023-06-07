@@ -1,0 +1,39 @@
+{
+  "id": 7,
+  "count": 6,
+  "description": "Consectetur at ipsam laboriosam quia quas ratione dolorem harum minus repudiandae aut vero illo et dolorem in quis magnam ut quas quod debitis autem repellendus dolores tempore aut laboriosam eius voluptatem exercitationem aspernatur dolores aut sint molestias quis iusto modi dolores sed et ipsam rerum adipisci voluptas aliquid excepturi officia dolorem molestias sit",
+  "link": " https:\/\/example..com\/tag\/aut-dolorem-debitis-cum\/",
+  "name": "Aut dolorem debitis cum",
+  "slug": "aut-dolorem-debitis-cum",
+  "taxonomy": "post_tag",
+  "meta": [],
+  "_links": {
+    "self": [
+      {
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/tags\/7"
+      }
+    ],
+    "collection": [
+      {
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/tags"
+      }
+    ],
+    "about": [
+      {
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/taxonomies\/post_tag"
+      }
+    ],
+    "wp:post_type": [
+      {
+        "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts?tags=7"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https:\/\/api.w.org\/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
