@@ -11,7 +11,7 @@ use ReflectionClass;
 use ReflectionProperty;
 use RuntimeException;
 
-abstract class EntityBase
+class EntityBase
 {
     protected int $id;
     protected array $_properties = [];
