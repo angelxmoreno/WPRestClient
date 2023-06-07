@@ -37,10 +37,10 @@ class BuildFixtures
             $plural = $uri === 'media' ? 'medias' : Inflector::pluralize($uri);
 
             $many = $this->apiClient->sendRequest('get', $uri);
-            $firstId = Hash::get($many, '0.id');
+            $firstId = Hash::get($many['data'], '0.id');
             $one = $this->apiClient->sendRequest('get', $uri . '/' . $firstId);
-            Fixture::generate($single, $one);
-            Fixture::generate($plural, $many);
+            Fixture::generate($single, $one['data']);
+            Fixture::generate($plural, $many['data']);
         }
     }
 }
