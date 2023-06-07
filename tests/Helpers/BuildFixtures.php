@@ -33,13 +33,14 @@ class BuildFixtures
         foreach ($aliases as $alias) {
             $repository = $this->registry->getRepository($alias);
             $uri = $repository::getPath();
-            $collection = $this->apiClient->sendRequest('get', $uri);
-            Fixture::generate(Inflector::pluralize($uri), $collection);
+            $single = Inflector::singularize($uri);
+            $plural = $uri === 'media' ? 'medias' : Inflector::pluralize($uri);
 
-            $firstId = Hash::get($collection, '0.id');
-
-            $single = $this->apiClient->sendRequest('get', $uri . '/' . $firstId);
-            Fixture::generate(Inflector::singularize($uri), $single);
+            $many = $this->apiClient->sendRequest('get', $uri);
+            $firstId = Hash::get($many, '0.id');
+            $one = $this->apiClient->sendRequest('get', $uri . '/' . $firstId);
+            Fixture::generate($single, $one);
+            Fixture::generate($plural, $many);
         }
     }
 }

@@ -2,13 +2,13 @@
 <?php
 declare(strict_types=1);
 
+use WPRestClient\Auth\BasicAuth;
 use WPRestClient\Core\ApiClient;
 use WPRestClient\Test\Helpers\BuildFixtures;
 
 const DS = DIRECTORY_SEPARATOR;
 const AUTOLOADER = __DIR__ . DS . '..' . DS . 'vendor' . DS . 'autoload.php';
 const FIXTURES_DIR = __DIR__ . DS . '..' . DS . 'tests' . DS . 'fixtures' . DS;
-
 include AUTOLOADER;
 
 function error(string $msg)
@@ -22,8 +22,19 @@ if (!isset($argv[1])) {
 }
 
 try {
-    
-    $client = new ApiClient($argv[1]);
+    $auth = isset($argv[2]) && isset($argv[3])
+        ? new BasicAuth($argv[2], $argv[3])
+        : null;
+
+    $guzzle = new GuzzleHttp\Client([
+        'verify' => false,
+    ]);
+
+    $client = new ApiClient($argv[1], $guzzle, $auth);
+    if (!isset($argv[2]) && !isset($argv[3])) {
+        $auth = new BasicAuth($argv[2], $argv[3]);
+        $client->setAuth($auth);
+    }
     $builder = new BuildFixtures($client);
 
     $builder->buildFixtures();

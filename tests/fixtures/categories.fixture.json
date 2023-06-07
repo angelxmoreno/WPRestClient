@@ -1,242 +1,242 @@
 [
-    {
-        "id": 10,
-        "count": 6,
-        "description": "Reiciendis in sed unde sit laborum et sed distinctio",
-        "link": "http:\/\/angelm106.sg-host.com\/category\/enim-et\/",
-        "name": "Enim et",
-        "slug": "enim-et",
-        "taxonomy": "category",
-        "parent": 0,
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories\/10"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/category"
-                }
-            ],
-            "wp:post_type": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?categories=10"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
+  {
+    "id": 10,
+    "count": 6,
+    "description": "Reiciendis in sed unde sit laborum et sed distinctio",
+    "link": " https:\/\/example..com\/category\/enim-et\/",
+    "name": "Enim et",
+    "slug": "enim-et",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories\/10"
         }
-    },
-    {
-        "id": 2,
-        "count": 4,
-        "description": "",
-        "link": "http:\/\/angelm106.sg-host.com\/category\/enjoy\/",
-        "name": "Enjoy",
-        "slug": "enjoy",
-        "taxonomy": "category",
-        "parent": 0,
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories\/2"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/category"
-                }
-            ],
-            "wp:post_type": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?categories=2"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories"
         }
-    },
-    {
-        "id": 3,
-        "count": 5,
-        "description": "",
-        "link": "http:\/\/angelm106.sg-host.com\/category\/sports\/",
-        "name": "Sports",
-        "slug": "sports",
-        "taxonomy": "category",
-        "parent": 0,
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories\/3"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/category"
-                }
-            ],
-            "wp:post_type": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?categories=3"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/taxonomies\/category"
         }
-    },
-    {
-        "id": 4,
-        "count": 10,
-        "description": "",
-        "link": "http:\/\/angelm106.sg-host.com\/category\/travelling\/",
-        "name": "Travelling",
-        "slug": "travelling",
-        "taxonomy": "category",
-        "parent": 0,
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories\/4"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/category"
-                }
-            ],
-            "wp:post_type": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?categories=4"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
+      ],
+      "wp:post_type": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts?categories=10"
         }
-    },
-    {
-        "id": 1,
-        "count": 3,
-        "description": "",
-        "link": "http:\/\/angelm106.sg-host.com\/category\/uncategorized\/",
-        "name": "Uncategorized",
-        "slug": "uncategorized",
-        "taxonomy": "category",
-        "parent": 0,
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories\/1"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/category"
-                }
-            ],
-            "wp:post_type": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?categories=1"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
         }
-    },
-    {
-        "id": 6,
-        "count": 4,
-        "description": "Labore ut rerum voluptas aliquid aut et officia deserunt ut reprehenderit ut nulla non odit ex aspernatur iure blanditiis sit et sed eum optio harum reprehenderit molestiae consectetur et eos autem quia consequatur modi sed fugit perferendis earum ipsa et animi rerum voluptas id quo",
-        "link": "http:\/\/angelm106.sg-host.com\/category\/velit-nostrum-suscipit\/",
-        "name": "Velit nostrum suscipit",
-        "slug": "velit-nostrum-suscipit",
-        "taxonomy": "category",
-        "parent": 0,
-        "meta": [],
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories\/6"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/categories"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/taxonomies\/category"
-                }
-            ],
-            "wp:post_type": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/posts?categories=6"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+      ]
     }
+  },
+  {
+    "id": 2,
+    "count": 4,
+    "description": "",
+    "link": " https:\/\/example..com\/category\/enjoy\/",
+    "name": "Enjoy",
+    "slug": "enjoy",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories\/2"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts?categories=2"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "count": 5,
+    "description": "",
+    "link": " https:\/\/example..com\/category\/sports\/",
+    "name": "Sports",
+    "slug": "sports",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories\/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts?categories=3"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "count": 10,
+    "description": "",
+    "link": " https:\/\/example..com\/category\/travelling\/",
+    "name": "Travelling",
+    "slug": "travelling",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories\/4"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts?categories=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 3,
+    "description": "",
+    "link": " https:\/\/example..com\/category\/uncategorized\/",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories\/1"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 4,
+    "description": "Labore ut rerum voluptas aliquid aut et officia deserunt ut reprehenderit ut nulla non odit ex aspernatur iure blanditiis sit et sed eum optio harum reprehenderit molestiae consectetur et eos autem quia consequatur modi sed fugit perferendis earum ipsa et animi rerum voluptas id quo",
+    "link": " https:\/\/example..com\/category\/velit-nostrum-suscipit\/",
+    "name": "Velit nostrum suscipit",
+    "slug": "velit-nostrum-suscipit",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories\/6"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/taxonomies\/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/posts?categories=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
 ]

@@ -1,512 +1,512 @@
 [
-    {
-        "id": 659,
-        "date": "2019-02-11T15:47:54",
-        "date_gmt": "2019-02-11T15:47:54",
-        "guid": {
-            "rendered": "http:\/\/angelm106.sg-host.com\/my-account\/"
-        },
-        "modified": "2019-02-11T15:47:54",
-        "modified_gmt": "2019-02-11T15:47:54",
-        "slug": "my-account",
-        "status": "publish",
-        "type": "page",
-        "link": "http:\/\/angelm106.sg-host.com\/my-account\/",
-        "title": {
-            "rendered": "My account"
-        },
-        "content": {
-            "rendered": "<p>[woocommerce_my_account]<\/p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>[woocommerce_my_account]<\/p>\n",
-            "protected": false
-        },
-        "author": 0,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": {
-            "neve_meta_sidebar": "",
-            "neve_meta_container": "",
-            "neve_meta_enable_content_width": "",
-            "neve_meta_content_width": 0,
-            "neve_meta_title_alignment": "",
-            "neve_meta_author_avatar": "",
-            "neve_post_elements_order": "",
-            "neve_meta_disable_header": "",
-            "neve_meta_disable_footer": "",
-            "neve_meta_disable_title": ""
-        },
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/659"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/types\/page"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/comments?post=659"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/659\/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/media?parent=659"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+  {
+    "id": 659,
+    "date": "2019-02-11T15:47:54",
+    "date_gmt": "2019-02-11T15:47:54",
+    "guid": {
+      "rendered": "http:\/\/angelm106.sg-host.com\/my-account\/"
     },
-    {
-        "id": 658,
-        "date": "2019-02-11T15:47:54",
-        "date_gmt": "2019-02-11T15:47:54",
-        "guid": {
-            "rendered": "http:\/\/angelm106.sg-host.com\/checkout\/"
-        },
-        "modified": "2019-02-11T15:47:54",
-        "modified_gmt": "2019-02-11T15:47:54",
-        "slug": "checkout",
-        "status": "publish",
-        "type": "page",
-        "link": "http:\/\/angelm106.sg-host.com\/checkout\/",
-        "title": {
-            "rendered": "Checkout"
-        },
-        "content": {
-            "rendered": "<p>[woocommerce_checkout]<\/p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>[woocommerce_checkout]<\/p>\n",
-            "protected": false
-        },
-        "author": 0,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": {
-            "neve_meta_sidebar": "",
-            "neve_meta_container": "",
-            "neve_meta_enable_content_width": "",
-            "neve_meta_content_width": 70,
-            "neve_meta_title_alignment": "",
-            "neve_meta_author_avatar": "",
-            "neve_post_elements_order": "",
-            "neve_meta_disable_header": "",
-            "neve_meta_disable_footer": "",
-            "neve_meta_disable_title": "on"
-        },
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/658"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/types\/page"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/comments?post=658"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/658\/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/media?parent=658"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+    "modified": "2019-02-11T15:47:54",
+    "modified_gmt": "2019-02-11T15:47:54",
+    "slug": "my-account",
+    "status": "publish",
+    "type": "page",
+    "link": " https:\/\/example..com\/my-account\/",
+    "title": {
+      "rendered": "My account"
     },
-    {
-        "id": 657,
-        "date": "2019-02-11T15:47:53",
-        "date_gmt": "2019-02-11T15:47:53",
-        "guid": {
-            "rendered": "http:\/\/angelm106.sg-host.com\/cart\/"
-        },
-        "modified": "2019-02-11T15:47:53",
-        "modified_gmt": "2019-02-11T15:47:53",
-        "slug": "cart",
-        "status": "publish",
-        "type": "page",
-        "link": "http:\/\/angelm106.sg-host.com\/cart\/",
-        "title": {
-            "rendered": "Cart"
-        },
-        "content": {
-            "rendered": "<p>[woocommerce_cart]<\/p>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "<p>[woocommerce_cart]<\/p>\n",
-            "protected": false
-        },
-        "author": 0,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": {
-            "neve_meta_sidebar": "",
-            "neve_meta_container": "",
-            "neve_meta_enable_content_width": "",
-            "neve_meta_content_width": 70,
-            "neve_meta_title_alignment": "",
-            "neve_meta_author_avatar": "",
-            "neve_post_elements_order": "",
-            "neve_meta_disable_header": "",
-            "neve_meta_disable_footer": "",
-            "neve_meta_disable_title": "on"
-        },
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/657"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/types\/page"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/comments?post=657"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/657\/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/media?parent=657"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+    "content": {
+      "rendered": "<p>[woocommerce_my_account]<\/p>\n",
+      "protected": false
     },
-    {
-        "id": 656,
-        "date": "2019-02-11T15:47:53",
-        "date_gmt": "2019-02-11T15:47:53",
-        "guid": {
-            "rendered": "http:\/\/angelm106.sg-host.com\/shop\/"
-        },
-        "modified": "2019-02-11T15:47:53",
-        "modified_gmt": "2019-02-11T15:47:53",
-        "slug": "shop",
-        "status": "publish",
-        "type": "page",
-        "link": "http:\/\/angelm106.sg-host.com\/shop\/",
-        "title": {
-            "rendered": "Shop"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 0,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": {
-            "neve_meta_sidebar": "",
-            "neve_meta_container": "",
-            "neve_meta_enable_content_width": "",
-            "neve_meta_content_width": 0,
-            "neve_meta_title_alignment": "",
-            "neve_meta_author_avatar": "",
-            "neve_post_elements_order": "",
-            "neve_meta_disable_header": "",
-            "neve_meta_disable_footer": "",
-            "neve_meta_disable_title": ""
-        },
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/656"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/types\/page"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/comments?post=656"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/656\/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/media?parent=656"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+    "excerpt": {
+      "rendered": "<p>[woocommerce_my_account]<\/p>\n",
+      "protected": false
     },
-    {
-        "id": 645,
-        "date": "2019-02-11T15:11:13",
-        "date_gmt": "2019-02-11T15:11:13",
-        "guid": {
-            "rendered": "http:\/\/angelm106.sg-host.com\/?page_id=645"
-        },
-        "modified": "2019-02-11T15:11:13",
-        "modified_gmt": "2019-02-11T15:11:13",
-        "slug": "home",
-        "status": "publish",
-        "type": "page",
-        "link": "http:\/\/angelm106.sg-host.com\/",
-        "title": {
-            "rendered": "Home"
-        },
-        "content": {
-            "rendered": "\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-af1635f9\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-afacdff0\">\n<h1 id=\"wp-block-themeisle-blocks-advanced-heading-a475539e\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a475539e\"> Super Fast, Featherweight Theme to Enter the Gutenberg Era <\/h1>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-group-9a8654eb\" class=\"wp-block-themeisle-blocks-button-group collapse-mobile wp-block-buttons align-center\">\n<div id=\"wp-block-themeisle-blocks-button-e9adae71\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>Our works<\/span><\/a><\/div>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-35ac0431\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>services<\/span><\/a><\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-22b703b1\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-28c6bbe1\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-5a0e33b6\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-dollar-sign\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-bbdbb4ea\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bbdbb4ea\">fixed projects<\/h3>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-ae2aa6fc\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-6d66b190\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-clock\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-fb212d38\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-fb212d38\">FAST<\/h3>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-e2d6cbb5\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-9267a087\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-grin\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-220b5e63\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-220b5e63\">AWESOME<\/h3>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-equal-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-center\" id=\"about\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-74ac39ec\">\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout hide-in-tablet hide-in-mobile has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-3bc3d864\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-3ac7b322\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"600\" height=\"900\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2019\/07\/street-at-night.jpg\" alt=\"\" class=\"wp-image-718 lazyload\" data-srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2019\/07\/street-at-night.jpg 600w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2019\/07\/street-at-night-200x300.jpg 200w\" sizes=\"(max-width: 600px) 100vw, 600px\" \/><noscript><img decoding=\"async\" width=\"600\" height=\"900\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2019\/07\/street-at-night.jpg\" alt=\"\" class=\"wp-image-718 lazyload\" srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2019\/07\/street-at-night.jpg 600w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2019\/07\/street-at-night-200x300.jpg 200w\" sizes=\"(max-width: 600px) 100vw, 600px\" \/><\/noscript><\/figure><\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column about-content animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-6782e6de\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-551e189a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-551e189a\">01<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-c2ca70b2\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-c2ca70b2\">About Us.<\/h2>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-4b9bd6e8\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-4b9bd6e8\">Analytics release series A financing launch party interaction design android angel investor. Vesting period social media sales conversion launch party rockstar incubator customer social proof graphical user interface technology supply chain. Non-disclosure agreement rockstar creative partner network launch party social proof paradigm shift long tail influencer.&nbsp;<br><br>Monetization validation success. Seed round channels product management. Customer non-disclosure agreement strategy android growth hacking ramen buyer.<\/p>\n\n\n\n<p><\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"focus\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-4e76066d\">\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-ce1ee7ee\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ce1ee7ee\">02<\/h2>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-bcc3d025\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bcc3d025\">Our Focus<\/h2>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-d93fef85\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d93fef85\">We understand your requirement and provide quality works.<\/h2>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-4-columns has-desktop-equal-layout has-tablet-twoColumnGrid-layout has-mobile-collapsedRows-layout has-extended-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-cde654fc\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInLeft slow\" id=\"wp-block-themeisle-blocks-advanced-column-0965bd3a\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-2ec85c9d\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-id-card\"><\/i><\/span><\/p>\n\n\n\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-1c9dba41\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1c9dba41\">Web Design<\/h5>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ea3868d1\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ea3868d1\">Analytics release series A financing launch party interaction design android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInDown slow\" id=\"wp-block-themeisle-blocks-advanced-column-2ff8a382\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-17ea0cb3\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-map\"><\/i><\/span><\/p>\n\n\n\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-cdbd7c0b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cdbd7c0b\">UX Design<\/h5>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-c90c6033\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-c90c6033\">Analytics release series A financing launch party interaction design android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-column-2e34cb38\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-66b81b1f\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-camera-retro\"><\/i><\/span><\/p>\n\n\n\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-be592819\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-be592819\">Photography<\/h5>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-49571ca6\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-49571ca6\">Analytics release series A financing launch party interaction design android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-697d2cf4\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-e2d97a70\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-tablet-alt\"><\/i><\/span><\/p>\n\n\n\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-41d1996f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-41d1996f\">App Development<\/h5>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-047844d0\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-047844d0\">Analytics release series A financing launch party interaction design android angel investor.<\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-center\" id=\"wp-block-themeisle-blocks-advanced-columns-a554c32a\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-26898ca1\">\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-99a22831\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-99a22831\">Explore Our Awesomeness<\/h3>\n\n\n\n<figure class=\"wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<div class=\"nv-iframe-embed\"><iframe class=\"lazyload\" title=\"Neve 2.0: Introducing the Header and Footer Builder [NEW]\" width=\"1200\" height=\"675\" data-src=\"https:\/\/www.youtube.com\/embed\/s_o9v2EatW8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe><\/div>\n<\/div><\/figure>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"team\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-402b70a2\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-92bb4829\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-92bb4829\">03<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-a4cdc5f8\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a4cdc5f8\">Our Team<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-16dc6cc0\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-16dc6cc0\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-4-columns has-desktop-equal-layout has-tablet-twoColumnGrid-layout has-mobile-collapsedRows-layout has-extended-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-583a2c31\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInLeft slow\" id=\"wp-block-themeisle-blocks-advanced-column-964ca810\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team1-1.jpg\" alt=\"\" class=\"wp-image-485 lazyload\" data-srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team1-1.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team1-1-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team1-1.jpg\" alt=\"\" class=\"wp-image-485 lazyload\" srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team1-1.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team1-1-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-a505a7e9\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a505a7e9\">Daniele Johnson<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-f0525768\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-f0525768\">Founder &amp; CEO<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column ticss-2d80704f animated fadeInDown slow\" id=\"wp-block-themeisle-blocks-advanced-column-b351fdc8\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg\" alt=\"\" class=\"wp-image-486 lazyload\" data-srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg\" alt=\"\" class=\"wp-image-486 lazyload\" srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-1300bb1b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1300bb1b\">Summer Geller<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-26ffbc8a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-26ffbc8a\">CTO<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-column-dbb98640\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team3-3.jpg\" alt=\"\" class=\"wp-image-487 lazyload\" data-srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team3-3.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team3-3-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team3-3.jpg\" alt=\"\" class=\"wp-image-487 lazyload\" srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team3-3.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team3-3-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-ef9a3b8d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ef9a3b8d\">Marissa Adams<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-0be1d49b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0be1d49b\">Lead Developer<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-160883c2\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team4-4.jpg\" alt=\"\" class=\"wp-image-488 lazyload\" data-srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team4-4.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team4-4-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team4-4.jpg\" alt=\"\" class=\"wp-image-488 lazyload\" srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team4-4.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team4-4-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-24ee3155\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-24ee3155\">Jennifer Gilmore<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-67384f69\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-67384f69\">Marketing<\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-4-columns has-desktop-equal-layout has-tablet-twoColumnGrid-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-3b88e8a9\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeIn slow\" id=\"wp-block-themeisle-blocks-advanced-column-e0c0410b\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-afad4c49\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-chart-line\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-bd2e02d4\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bd2e02d4\">12,458+<\/h3>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-4d835c94\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-4d835c94\">Projects Completed<\/p>\n\n\n\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-50766cf8\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-dot-circle\"><\/i><\/span><\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeIn slow\" id=\"wp-block-themeisle-blocks-advanced-column-2c8829e2\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-5c08f5d3\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-user\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-d7117315\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d7117315\">1,796+<\/h3>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-07a16e2c\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-07a16e2c\">Satisfied Clients<\/p>\n\n\n\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-d908e1b8\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-dot-circle\"><\/i><\/span><\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeIn\" id=\"wp-block-themeisle-blocks-advanced-column-a9de1f3c\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-90b9a2ee\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-heart\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-176bd6b4\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-176bd6b4\">1,000+<\/h3>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-aa17d9a9\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-aa17d9a9\">Positive Feedbacks<\/p>\n\n\n\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-fdd77536\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-dot-circle\"><\/i><\/span><\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeIn slow\" id=\"wp-block-themeisle-blocks-advanced-column-0e4e0361\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-755f6d50\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-gift\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-e8565765\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-e8565765\">1,500+<\/h3>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-93242e3e\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-93242e3e\">Freebies Released<\/p>\n\n\n\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-22fc16a1\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-dot-circle\"><\/i><\/span><\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"pricing\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-6815fec1\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-a1171c48\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a1171c48\">05<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-3e9e754a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-3e9e754a\">Pricing Table<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-f437bdf7\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-f437bdf7\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-extended-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-de32ae0b\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInLeft slow\" id=\"wp-block-themeisle-blocks-advanced-column-ec42307c\">\n<div class=\"wp-block-themeisle-blocks-pricing\">\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-bec0ce04\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bec0ce04\">Starter<\/h5>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-31523030\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-b88a4f6a\">\n<h4 id=\"wp-block-themeisle-blocks-advanced-heading-e504d389\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-e504d389\">$125<\/h4>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-0929cce3\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0929cce3\">Per Month<\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-6cc4a99f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-6cc4a99f\"><strong>800GB<\/strong> Online Storage<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ba158e14\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ba158e14\"><strong>20<\/strong> Files Per Day<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-cbb5d9e4\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cbb5d9e4\"><strong>2TB<\/strong> Monthly Bandwidth<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-5db7e022\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5db7e022\">Secure Platform<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-2a6347c5\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-2a6347c5\">Fast &amp; Reliable<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-baaf822a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-baaf822a\">24\/7 Customer Support<\/p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-group-cdaa570d\" class=\"wp-block-themeisle-blocks-button-group wp-block-buttons align-center\">\n<div id=\"wp-block-themeisle-blocks-button-609e8d77\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"#\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>get started<\/span><\/a><\/div>\n<\/div>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-column-8bdcdabf\">\n<div class=\"wp-block-themeisle-blocks-pricing\">\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-8a6c1372\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-8a6c1372\">Starter<\/h5>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-820378b7\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-36934602\">\n<h4 id=\"wp-block-themeisle-blocks-advanced-heading-2a122a97\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-2a122a97\">$125<\/h4>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-48793c0d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-48793c0d\">Per Month<\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-80e61378\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-80e61378\"><strong>800GB<\/strong> Online Storage<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ab7e2a50\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ab7e2a50\"><strong>20<\/strong> Files Per Day<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ef68ed5b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ef68ed5b\"><strong>2TB<\/strong> Monthly Bandwidth<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-d36f11be\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d36f11be\">Secure Platform<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-b0e52a3d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b0e52a3d\">Fast &amp; Reliable<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-0875061d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0875061d\">24\/7 Customer Support<\/p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-group-cbe8f238\" class=\"wp-block-themeisle-blocks-button-group wp-block-buttons align-center\">\n<div id=\"wp-block-themeisle-blocks-button-88b3ea23\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"#\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>get started<\/span><\/a><\/div>\n<\/div>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-580177f7\">\n<div class=\"wp-block-themeisle-blocks-pricing\">\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-47f63a95\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-47f63a95\">Starter<\/h5>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-b6a0c74a\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-d4543322\">\n<h4 id=\"wp-block-themeisle-blocks-advanced-heading-984a2414\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-984a2414\">$125<\/h4>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ea4f316b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ea4f316b\">Per Month<\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-50acc26c\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-50acc26c\"><strong>800GB<\/strong> Online Storage<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-1bc86bfa\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1bc86bfa\"><strong>20<\/strong> Files Per Day<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-a5892dda\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a5892dda\"><strong>2TB<\/strong> Monthly Bandwidth<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-7da8b39d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-7da8b39d\">Secure Platform<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-d3e2a587\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d3e2a587\">Fast &amp; Reliable<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-b7677774\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b7677774\">24\/7 Customer Support<\/p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-group-29ba2f4d\" class=\"wp-block-themeisle-blocks-button-group wp-block-buttons align-center\">\n<div id=\"wp-block-themeisle-blocks-button-71b720e5\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"#\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>get started<\/span><\/a><\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"testimonial\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-9f7103c3\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-28d30510\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-28d30510\">06<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-84e5d340\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-84e5d340\">Testimonials<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-a8f4d5ea\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a8f4d5ea\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-testimonials\">\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-2-columns has-desktop-oneTwo-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-center\" id=\"wp-block-themeisle-blocks-advanced-columns-444c1979\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated zoomIn slow\" id=\"wp-block-themeisle-blocks-advanced-column-90d07cf7\">\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout hide-in-tablet hide-in-mobile has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-2cee8d1f\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-e5286209\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg\" alt=\"\" class=\"wp-image-486 lazyload\" data-srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg\" alt=\"\" class=\"wp-image-486 lazyload\" srcset=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg 260w, http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-c8abd26d\">\n<p id=\"wp-block-themeisle-blocks-advanced-heading-a8993694\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a8993694\">Deployment ownership non-disclosure agreement vesting period crowdfunding success influencer partnership equity series A financing network effects user experience crowdsource. Burn rate stock bootstrapping direct mailing release client traction creative facebook monetization crowdfunding rockstar.<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-6f498221\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-6f498221\">Melina<\/p>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-aaf1da6f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-aaf1da6f\">Melina Albrecht<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-25c21baa\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-25c21baa\">Founder, TingTong<\/p>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-a7353d45\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-7de4226a\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-b98d9087\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b98d9087\">07<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-0ea6ede9\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0ea6ede9\">Why select us?<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-eba59926\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-eba59926\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-columns-998107ad\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-7cb03daf\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-e980bd72\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-chart-bar\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-9a517947\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-9a517947\">Business Growth<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-7f47927f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-7f47927f\">Success scrum project funding marketing seed money prototype innovator direct hackathon android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-a290680d\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-06e19443\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-dollar-sign\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-282dfefb\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-282dfefb\">Unlimited Revisions<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-8cb02e5c\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-8cb02e5c\">Technology founders churn rate niche market long tail release iteration burn rate backing. Churn rate accelerator.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-9801bacc\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-ffd8ff8b\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-directions\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-cbcb50e6\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cbcb50e6\">Ultimate Perfection<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-dfeb4352\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-dfeb4352\">Deployment ownership non-disclosure agreement vesting period crowdfunding success influencer partnership.<\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-columns-129ad7be\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-c9bf6842\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-a79c370a\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-tv\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-b2dcb538\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b2dcb538\">Smart Experience<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-b583baed\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b583baed\">Success scrum project funding marketing seed money prototype innovator direct hackathon android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-68713b0b\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-5ef7415d\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-calendar-plus\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-1b1b5812\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1b1b5812\">Strict Deadline<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-fcddf035\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-fcddf035\">Technology founders churn rate niche market long tail release iteration burn rate backing. Churn rate accelerator.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-aef49c0d\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-aeca1a54\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-medal\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-cce51ff1\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cce51ff1\">Reputed Company<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-812f7c0d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-812f7c0d\">Deployment ownership non-disclosure agreement vesting period crowdfunding success influencer partnership.<\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-2-columns has-desktop-twoOne-layout has-tablet-twoOne-layout has-mobile-collapsedRows-layout has-extended-gap has-vertical-center\" id=\"wp-block-themeisle-blocks-advanced-columns-a695bec1\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-573087bd\">\n<h4 id=\"wp-block-themeisle-blocks-advanced-heading-00844b0f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-00844b0f animated bounceInLeft slow\">Start your journey with us now<\/h4>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-0d292126\">\n<div id=\"wp-block-themeisle-blocks-button-group-cc4a5610\" class=\"wp-block-themeisle-blocks-button-group wp-block-buttons align-left animated fadeInRight slow\">\n<div id=\"wp-block-themeisle-blocks-button-4ca29fa0\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>get started<\/span><\/a><\/div>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-016fe03e\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-5a115ab7\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-1e104792\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1e104792\">08<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-ba2825be\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ba2825be\">Our Blog<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-bb088db4\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bb088db4\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-columns-089b367d\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-2ce04867\"><\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"contact\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-8ef95448\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-67fe706d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-67fe706d\">09<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-79d4dc84\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-79d4dc84\">Get in Touch<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-21090a05\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-21090a05\"> Allow people to reach you directly through your site: <\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-28ad83e1\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-934c56a2\"><p>[wpforms id=&#8221;500&#8243;]<\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-4-columns has-desktop-equal-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-c3735c0d\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-0567c16a\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-78b7b5d0\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-78b7b5d0\">Here for you<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-b265261c\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b265261c\">Call us 24\/7. We are there for your support.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-84250375\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-eae72deb\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-eae72deb\">About Neve<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-5085f582\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5085f582\">Res enim fortasse verae, certe graves.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-9628a24c\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-63cd76fa\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-63cd76fa\">Where to find us<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-1a6eb528\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1a6eb528\">42 Boulevard, California, number 23<\/p>\n\n\n\n<p><\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-f35de950\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-136d7980\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-136d7980\">Keep in touch<\/h6>\n\n\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 0,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "page-templates\/template-pagebuilder-full-width.php",
-        "meta": {
-            "neve_meta_sidebar": "full-width",
-            "neve_meta_container": "full-width",
-            "neve_meta_enable_content_width": "off",
-            "neve_meta_content_width": 0,
-            "neve_meta_title_alignment": "",
-            "neve_meta_author_avatar": "",
-            "neve_post_elements_order": "",
-            "neve_meta_disable_header": "",
-            "neve_meta_disable_footer": "",
-            "neve_meta_disable_title": "on"
-        },
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/645"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/types\/page"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/comments?post=645"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/645\/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/media?parent=645"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
-        }
+    "author": 0,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": ""
     },
-    {
-        "id": 728,
-        "date": "2018-12-11T13:55:35",
-        "date_gmt": "2018-12-11T13:55:35",
-        "guid": {
-            "rendered": "http:\/\/angelm106.sg-host.com\/?page_id=6"
-        },
-        "modified": "2018-12-11T13:55:35",
-        "modified_gmt": "2018-12-11T13:55:35",
-        "slug": "blog",
-        "status": "publish",
-        "type": "page",
-        "link": "http:\/\/angelm106.sg-host.com\/blog\/",
-        "title": {
-            "rendered": "Blog"
-        },
-        "content": {
-            "rendered": "",
-            "protected": false
-        },
-        "excerpt": {
-            "rendered": "",
-            "protected": false
-        },
-        "author": 0,
-        "featured_media": 0,
-        "parent": 0,
-        "menu_order": 0,
-        "comment_status": "closed",
-        "ping_status": "closed",
-        "template": "",
-        "meta": {
-            "neve_meta_sidebar": "",
-            "neve_meta_container": "",
-            "neve_meta_enable_content_width": "",
-            "neve_meta_content_width": 70,
-            "neve_meta_title_alignment": "",
-            "neve_meta_author_avatar": "",
-            "neve_post_elements_order": "",
-            "neve_meta_disable_header": "",
-            "neve_meta_disable_footer": "",
-            "neve_meta_disable_title": "on"
-        },
-        "_links": {
-            "self": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/728"
-                }
-            ],
-            "collection": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages"
-                }
-            ],
-            "about": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/types\/page"
-                }
-            ],
-            "replies": [
-                {
-                    "embeddable": true,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/comments?post=728"
-                }
-            ],
-            "version-history": [
-                {
-                    "count": 0,
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/pages\/728\/revisions"
-                }
-            ],
-            "wp:attachment": [
-                {
-                    "href": "http:\/\/angelm106.sg-host.com\/wp-json\/wp\/v2\/media?parent=728"
-                }
-            ],
-            "curies": [
-                {
-                    "name": "wp",
-                    "href": "https:\/\/api.w.org\/{rel}",
-                    "templated": true
-                }
-            ]
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/659"
         }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/types\/page"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/comments?post=659"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/659\/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/media?parent=659"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
     }
+  },
+  {
+    "id": 658,
+    "date": "2019-02-11T15:47:54",
+    "date_gmt": "2019-02-11T15:47:54",
+    "guid": {
+      "rendered": "http:\/\/angelm106.sg-host.com\/checkout\/"
+    },
+    "modified": "2019-02-11T15:47:54",
+    "modified_gmt": "2019-02-11T15:47:54",
+    "slug": "checkout",
+    "status": "publish",
+    "type": "page",
+    "link": " https:\/\/example..com\/checkout\/",
+    "title": {
+      "rendered": "Checkout"
+    },
+    "content": {
+      "rendered": "<p>[woocommerce_checkout]<\/p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>[woocommerce_checkout]<\/p>\n",
+      "protected": false
+    },
+    "author": 0,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 70,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "on"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/658"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/types\/page"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/comments?post=658"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/658\/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/media?parent=658"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 657,
+    "date": "2019-02-11T15:47:53",
+    "date_gmt": "2019-02-11T15:47:53",
+    "guid": {
+      "rendered": "http:\/\/angelm106.sg-host.com\/cart\/"
+    },
+    "modified": "2019-02-11T15:47:53",
+    "modified_gmt": "2019-02-11T15:47:53",
+    "slug": "cart",
+    "status": "publish",
+    "type": "page",
+    "link": " https:\/\/example..com\/cart\/",
+    "title": {
+      "rendered": "Cart"
+    },
+    "content": {
+      "rendered": "<p>[woocommerce_cart]<\/p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>[woocommerce_cart]<\/p>\n",
+      "protected": false
+    },
+    "author": 0,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 70,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "on"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/657"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/types\/page"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/comments?post=657"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/657\/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/media?parent=657"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 656,
+    "date": "2019-02-11T15:47:53",
+    "date_gmt": "2019-02-11T15:47:53",
+    "guid": {
+      "rendered": "http:\/\/angelm106.sg-host.com\/shop\/"
+    },
+    "modified": "2019-02-11T15:47:53",
+    "modified_gmt": "2019-02-11T15:47:53",
+    "slug": "shop",
+    "status": "publish",
+    "type": "page",
+    "link": " https:\/\/example..com\/shop\/",
+    "title": {
+      "rendered": "Shop"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 0,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": ""
+    },
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/656"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/types\/page"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/comments?post=656"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/656\/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/media?parent=656"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 645,
+    "date": "2019-02-11T15:11:13",
+    "date_gmt": "2019-02-11T15:11:13",
+    "guid": {
+      "rendered": "http:\/\/angelm106.sg-host.com\/?page_id=645"
+    },
+    "modified": "2019-02-11T15:11:13",
+    "modified_gmt": "2019-02-11T15:11:13",
+    "slug": "home",
+    "status": "publish",
+    "type": "page",
+    "link": " https:\/\/example..com\/",
+    "title": {
+      "rendered": "Home"
+    },
+    "content": {
+      "rendered": "\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-af1635f9\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-afacdff0\">\n<h1 id=\"wp-block-themeisle-blocks-advanced-heading-a475539e\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a475539e\"> Super Fast, Featherweight Theme to Enter the Gutenberg Era <\/h1>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-group-9a8654eb\" class=\"wp-block-themeisle-blocks-button-group collapse-mobile wp-block-buttons align-center\">\n<div id=\"wp-block-themeisle-blocks-button-e9adae71\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>Our works<\/span><\/a><\/div>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-35ac0431\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>services<\/span><\/a><\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-22b703b1\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-28c6bbe1\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-5a0e33b6\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-dollar-sign\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-bbdbb4ea\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bbdbb4ea\">fixed projects<\/h3>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-ae2aa6fc\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-6d66b190\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-clock\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-fb212d38\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-fb212d38\">FAST<\/h3>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-e2d6cbb5\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-9267a087\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-grin\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-220b5e63\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-220b5e63\">AWESOME<\/h3>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-2-columns has-desktop-equal-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-center\" id=\"about\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-74ac39ec\">\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout hide-in-tablet hide-in-mobile has-default-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-3bc3d864\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-3ac7b322\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"600\" height=\"900\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2019\/07\/street-at-night.jpg\" alt=\"\" class=\"wp-image-718 lazyload\" data-srcset=\" https:\/\/example..com\/wp-content\/uploads\/2019\/07\/street-at-night.jpg 600w,  https:\/\/example..com\/wp-content\/uploads\/2019\/07\/street-at-night-200x300.jpg 200w\" sizes=\"(max-width: 600px) 100vw, 600px\" \/><noscript><img decoding=\"async\" width=\"600\" height=\"900\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2019\/07\/street-at-night.jpg\" alt=\"\" class=\"wp-image-718 lazyload\" srcset=\" https:\/\/example..com\/wp-content\/uploads\/2019\/07\/street-at-night.jpg 600w,  https:\/\/example..com\/wp-content\/uploads\/2019\/07\/street-at-night-200x300.jpg 200w\" sizes=\"(max-width: 600px) 100vw, 600px\" \/><\/noscript><\/figure><\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column about-content animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-6782e6de\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-551e189a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-551e189a\">01<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-c2ca70b2\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-c2ca70b2\">About Us.<\/h2>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-4b9bd6e8\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-4b9bd6e8\">Analytics release series A financing launch party interaction design android angel investor. Vesting period social media sales conversion launch party rockstar incubator customer social proof graphical user interface technology supply chain. Non-disclosure agreement rockstar creative partner network launch party social proof paradigm shift long tail influencer.&nbsp;<br><br>Monetization validation success. Seed round channels product management. Customer non-disclosure agreement strategy android growth hacking ramen buyer.<\/p>\n\n\n\n<p><\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"focus\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-4e76066d\">\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-ce1ee7ee\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ce1ee7ee\">02<\/h2>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-bcc3d025\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bcc3d025\">Our Focus<\/h2>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-d93fef85\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d93fef85\">We understand your requirement and provide quality works.<\/h2>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-4-columns has-desktop-equal-layout has-tablet-twoColumnGrid-layout has-mobile-collapsedRows-layout has-extended-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-cde654fc\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInLeft slow\" id=\"wp-block-themeisle-blocks-advanced-column-0965bd3a\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-2ec85c9d\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-id-card\"><\/i><\/span><\/p>\n\n\n\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-1c9dba41\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1c9dba41\">Web Design<\/h5>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ea3868d1\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ea3868d1\">Analytics release series A financing launch party interaction design android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInDown slow\" id=\"wp-block-themeisle-blocks-advanced-column-2ff8a382\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-17ea0cb3\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-map\"><\/i><\/span><\/p>\n\n\n\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-cdbd7c0b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cdbd7c0b\">UX Design<\/h5>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-c90c6033\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-c90c6033\">Analytics release series A financing launch party interaction design android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-column-2e34cb38\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-66b81b1f\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-camera-retro\"><\/i><\/span><\/p>\n\n\n\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-be592819\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-be592819\">Photography<\/h5>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-49571ca6\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-49571ca6\">Analytics release series A financing launch party interaction design android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-697d2cf4\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-e2d97a70\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-tablet-alt\"><\/i><\/span><\/p>\n\n\n\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-41d1996f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-41d1996f\">App Development<\/h5>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-047844d0\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-047844d0\">Analytics release series A financing launch party interaction design android angel investor.<\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-center\" id=\"wp-block-themeisle-blocks-advanced-columns-a554c32a\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-26898ca1\">\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-99a22831\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-99a22831\">Explore Our Awesomeness<\/h3>\n\n\n\n<figure class=\"wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"><div class=\"wp-block-embed__wrapper\">\n<div class=\"nv-iframe-embed\"><iframe class=\"lazyload\" title=\"Neve 2.0: Introducing the Header and Footer Builder [NEW]\" width=\"1200\" height=\"675\" data-src=\"https:\/\/www.youtube.com\/embed\/s_o9v2EatW8?feature=oembed\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen><\/iframe><\/div>\n<\/div><\/figure>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"team\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-402b70a2\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-92bb4829\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-92bb4829\">03<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-a4cdc5f8\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a4cdc5f8\">Our Team<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-16dc6cc0\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-16dc6cc0\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-4-columns has-desktop-equal-layout has-tablet-twoColumnGrid-layout has-mobile-collapsedRows-layout has-extended-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-583a2c31\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInLeft slow\" id=\"wp-block-themeisle-blocks-advanced-column-964ca810\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team1-1.jpg\" alt=\"\" class=\"wp-image-485 lazyload\" data-srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team1-1.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team1-1-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team1-1.jpg\" alt=\"\" class=\"wp-image-485 lazyload\" srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team1-1.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team1-1-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-a505a7e9\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a505a7e9\">Daniele Johnson<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-f0525768\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-f0525768\">Founder &amp; CEO<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column ticss-2d80704f animated fadeInDown slow\" id=\"wp-block-themeisle-blocks-advanced-column-b351fdc8\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg\" alt=\"\" class=\"wp-image-486 lazyload\" data-srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team2-2-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg\" alt=\"\" class=\"wp-image-486 lazyload\" srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team2-2-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-1300bb1b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1300bb1b\">Summer Geller<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-26ffbc8a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-26ffbc8a\">CTO<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-column-dbb98640\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team3-3.jpg\" alt=\"\" class=\"wp-image-487 lazyload\" data-srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team3-3.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team3-3-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team3-3.jpg\" alt=\"\" class=\"wp-image-487 lazyload\" srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team3-3.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team3-3-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-ef9a3b8d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ef9a3b8d\">Marissa Adams<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-0be1d49b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0be1d49b\">Lead Developer<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-160883c2\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team4-4.jpg\" alt=\"\" class=\"wp-image-488 lazyload\" data-srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team4-4.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team4-4-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team4-4.jpg\" alt=\"\" class=\"wp-image-488 lazyload\" srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team4-4.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team4-4-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-24ee3155\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-24ee3155\">Jennifer Gilmore<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-67384f69\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-67384f69\">Marketing<\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-4-columns has-desktop-equal-layout has-tablet-twoColumnGrid-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-3b88e8a9\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeIn slow\" id=\"wp-block-themeisle-blocks-advanced-column-e0c0410b\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-afad4c49\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-chart-line\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-bd2e02d4\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bd2e02d4\">12,458+<\/h3>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-4d835c94\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-4d835c94\">Projects Completed<\/p>\n\n\n\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-50766cf8\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-dot-circle\"><\/i><\/span><\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeIn slow\" id=\"wp-block-themeisle-blocks-advanced-column-2c8829e2\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-5c08f5d3\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-user\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-d7117315\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d7117315\">1,796+<\/h3>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-07a16e2c\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-07a16e2c\">Satisfied Clients<\/p>\n\n\n\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-d908e1b8\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-dot-circle\"><\/i><\/span><\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeIn\" id=\"wp-block-themeisle-blocks-advanced-column-a9de1f3c\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-90b9a2ee\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-heart\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-176bd6b4\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-176bd6b4\">1,000+<\/h3>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-aa17d9a9\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-aa17d9a9\">Positive Feedbacks<\/p>\n\n\n\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-fdd77536\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-dot-circle\"><\/i><\/span><\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeIn slow\" id=\"wp-block-themeisle-blocks-advanced-column-0e4e0361\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-755f6d50\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-gift\"><\/i><\/span><\/p>\n\n\n\n<h3 id=\"wp-block-themeisle-blocks-advanced-heading-e8565765\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-e8565765\">1,500+<\/h3>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-93242e3e\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-93242e3e\">Freebies Released<\/p>\n\n\n\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-22fc16a1\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-dot-circle\"><\/i><\/span><\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"pricing\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-6815fec1\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-a1171c48\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a1171c48\">05<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-3e9e754a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-3e9e754a\">Pricing Table<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-f437bdf7\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-f437bdf7\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-extended-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-de32ae0b\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInLeft slow\" id=\"wp-block-themeisle-blocks-advanced-column-ec42307c\">\n<div class=\"wp-block-themeisle-blocks-pricing\">\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-bec0ce04\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bec0ce04\">Starter<\/h5>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-31523030\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-b88a4f6a\">\n<h4 id=\"wp-block-themeisle-blocks-advanced-heading-e504d389\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-e504d389\">$125<\/h4>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-0929cce3\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0929cce3\">Per Month<\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-6cc4a99f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-6cc4a99f\"><strong>800GB<\/strong> Online Storage<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ba158e14\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ba158e14\"><strong>20<\/strong> Files Per Day<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-cbb5d9e4\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cbb5d9e4\"><strong>2TB<\/strong> Monthly Bandwidth<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-5db7e022\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5db7e022\">Secure Platform<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-2a6347c5\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-2a6347c5\">Fast &amp; Reliable<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-baaf822a\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-baaf822a\">24\/7 Customer Support<\/p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-group-cdaa570d\" class=\"wp-block-themeisle-blocks-button-group wp-block-buttons align-center\">\n<div id=\"wp-block-themeisle-blocks-button-609e8d77\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"#\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>get started<\/span><\/a><\/div>\n<\/div>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-column-8bdcdabf\">\n<div class=\"wp-block-themeisle-blocks-pricing\">\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-8a6c1372\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-8a6c1372\">Starter<\/h5>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-820378b7\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-36934602\">\n<h4 id=\"wp-block-themeisle-blocks-advanced-heading-2a122a97\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-2a122a97\">$125<\/h4>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-48793c0d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-48793c0d\">Per Month<\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-80e61378\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-80e61378\"><strong>800GB<\/strong> Online Storage<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ab7e2a50\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ab7e2a50\"><strong>20<\/strong> Files Per Day<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ef68ed5b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ef68ed5b\"><strong>2TB<\/strong> Monthly Bandwidth<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-d36f11be\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d36f11be\">Secure Platform<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-b0e52a3d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b0e52a3d\">Fast &amp; Reliable<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-0875061d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0875061d\">24\/7 Customer Support<\/p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-group-cbe8f238\" class=\"wp-block-themeisle-blocks-button-group wp-block-buttons align-center\">\n<div id=\"wp-block-themeisle-blocks-button-88b3ea23\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"#\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>get started<\/span><\/a><\/div>\n<\/div>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-580177f7\">\n<div class=\"wp-block-themeisle-blocks-pricing\">\n<h5 id=\"wp-block-themeisle-blocks-advanced-heading-47f63a95\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-47f63a95\">Starter<\/h5>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-b6a0c74a\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-d4543322\">\n<h4 id=\"wp-block-themeisle-blocks-advanced-heading-984a2414\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-984a2414\">$125<\/h4>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-ea4f316b\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ea4f316b\">Per Month<\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-50acc26c\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-50acc26c\"><strong>800GB<\/strong> Online Storage<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-1bc86bfa\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1bc86bfa\"><strong>20<\/strong> Files Per Day<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-a5892dda\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a5892dda\"><strong>2TB<\/strong> Monthly Bandwidth<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-7da8b39d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-7da8b39d\">Secure Platform<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-d3e2a587\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-d3e2a587\">Fast &amp; Reliable<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-b7677774\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b7677774\">24\/7 Customer Support<\/p>\n\n\n\n<div style=\"height:30px\" aria-hidden=\"true\" class=\"wp-block-spacer\"><\/div>\n\n\n\n<div id=\"wp-block-themeisle-blocks-button-group-29ba2f4d\" class=\"wp-block-themeisle-blocks-button-group wp-block-buttons align-center\">\n<div id=\"wp-block-themeisle-blocks-button-71b720e5\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"#\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>get started<\/span><\/a><\/div>\n<\/div>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"testimonial\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-9f7103c3\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-28d30510\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-28d30510\">06<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-84e5d340\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-84e5d340\">Testimonials<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-a8f4d5ea\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a8f4d5ea\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-testimonials\">\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-2-columns has-desktop-oneTwo-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-center\" id=\"wp-block-themeisle-blocks-advanced-columns-444c1979\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column animated zoomIn slow\" id=\"wp-block-themeisle-blocks-advanced-column-90d07cf7\">\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout hide-in-tablet hide-in-mobile has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-2cee8d1f\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-e5286209\">\n<div class=\"wp-block-image\"><figure class=\"aligncenter\"><img decoding=\"async\" width=\"260\" height=\"260\" src=\"data:image\/gif;base64,R0lGODlhAQABAIAAAAAAAP\/\/\/yH5BAEAAAAALAAAAAABAAEAAAIBRAA7\" data-src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg\" alt=\"\" class=\"wp-image-486 lazyload\" data-srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team2-2-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><noscript><img decoding=\"async\" width=\"260\" height=\"260\" src=\"http:\/\/angelm106.sg-host.com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg\" alt=\"\" class=\"wp-image-486 lazyload\" srcset=\" https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team2-2.jpg 260w,  https:\/\/example..com\/wp-content\/uploads\/2018\/12\/nv-team2-2-150x150.jpg 150w\" sizes=\"(max-width: 260px) 100vw, 260px\" \/><\/noscript><\/figure><\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column animated fadeInRight slow\" id=\"wp-block-themeisle-blocks-advanced-column-c8abd26d\">\n<p id=\"wp-block-themeisle-blocks-advanced-heading-a8993694\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-a8993694\">Deployment ownership non-disclosure agreement vesting period crowdfunding success influencer partnership equity series A financing network effects user experience crowdsource. Burn rate stock bootstrapping direct mailing release client traction creative facebook monetization crowdfunding rockstar.<\/p>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-6f498221\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-6f498221\">Melina<\/p>\n\n\n\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-aaf1da6f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-aaf1da6f\">Melina Albrecht<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-25c21baa\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-25c21baa\">Founder, TingTong<\/p>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-a7353d45\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-7de4226a\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-b98d9087\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b98d9087\">07<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-0ea6ede9\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-0ea6ede9\">Why select us?<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-eba59926\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-eba59926\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-columns-998107ad\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-7cb03daf\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-e980bd72\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-chart-bar\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-9a517947\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-9a517947\">Business Growth<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-7f47927f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-7f47927f\">Success scrum project funding marketing seed money prototype innovator direct hackathon android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-a290680d\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-06e19443\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-dollar-sign\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-282dfefb\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-282dfefb\">Unlimited Revisions<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-8cb02e5c\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-8cb02e5c\">Technology founders churn rate niche market long tail release iteration burn rate backing. Churn rate accelerator.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-9801bacc\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-ffd8ff8b\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-directions\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-cbcb50e6\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cbcb50e6\">Ultimate Perfection<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-dfeb4352\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-dfeb4352\">Deployment ownership non-disclosure agreement vesting period crowdfunding success influencer partnership.<\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-3-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-columns-129ad7be\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-c9bf6842\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-a79c370a\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-tv\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-b2dcb538\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b2dcb538\">Smart Experience<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-b583baed\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b583baed\">Success scrum project funding marketing seed money prototype innovator direct hackathon android angel investor.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-68713b0b\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-5ef7415d\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"far fa-calendar-plus\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-1b1b5812\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1b1b5812\">Strict Deadline<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-fcddf035\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-fcddf035\">Technology founders churn rate niche market long tail release iteration burn rate backing. Churn rate accelerator.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-aef49c0d\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<p class=\"wp-block-themeisle-blocks-font-awesome-icons\" id=\"wp-block-themeisle-blocks-font-awesome-icons-aeca1a54\"><span class=\"wp-block-themeisle-blocks-font-awesome-icons-container\"><i class=\"fas fa-medal\"><\/i><\/span><\/p>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-cce51ff1\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-cce51ff1\">Reputed Company<\/div>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-812f7c0d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-812f7c0d\">Deployment ownership non-disclosure agreement vesting period crowdfunding success influencer partnership.<\/p>\n<\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-2-columns has-desktop-twoOne-layout has-tablet-twoOne-layout has-mobile-collapsedRows-layout has-extended-gap has-vertical-center\" id=\"wp-block-themeisle-blocks-advanced-columns-a695bec1\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-573087bd\">\n<h4 id=\"wp-block-themeisle-blocks-advanced-heading-00844b0f\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-00844b0f animated bounceInLeft slow\">Start your journey with us now<\/h4>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-0d292126\">\n<div id=\"wp-block-themeisle-blocks-button-group-cc4a5610\" class=\"wp-block-themeisle-blocks-button-group wp-block-buttons align-left animated fadeInRight slow\">\n<div id=\"wp-block-themeisle-blocks-button-4ca29fa0\" class=\"wp-block-themeisle-blocks-button wp-block-button\"><a href=\"\" target=\"_self\" rel=\"noopener noreferrer\" class=\"wp-block-button__link\"><span>get started<\/span><\/a><\/div>\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-016fe03e\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-5a115ab7\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-1e104792\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1e104792\">08<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-ba2825be\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-ba2825be\">Our Blog<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-bb088db4\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-bb088db4\">We understand your requirement and provide quality works.<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset animated fadeInUp slow\" id=\"wp-block-themeisle-blocks-advanced-columns-089b367d\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-2ce04867\"><\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns alignfull has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"contact\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-8ef95448\">\n<div id=\"wp-block-themeisle-blocks-advanced-heading-67fe706d\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-67fe706d\">09<\/div>\n\n\n\n<h2 id=\"wp-block-themeisle-blocks-advanced-heading-79d4dc84\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-79d4dc84\">Get in Touch<\/h2>\n\n\n\n<div id=\"wp-block-themeisle-blocks-advanced-heading-21090a05\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-21090a05\"> Allow people to reach you directly through your site: <\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-1-columns has-desktop-equal-layout has-tablet-equal-layout has-mobile-equal-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-28ad83e1\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-934c56a2\"><p>[wpforms id=&#8221;500&#8243;]<\/p>\n<\/div>\n<\/div><\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-columns has-4-columns has-desktop-equal-layout has-tablet-collapsedRows-layout has-mobile-collapsedRows-layout has-nogap-gap has-vertical-unset\" id=\"wp-block-themeisle-blocks-advanced-columns-c3735c0d\"><div class=\"wp-block-themeisle-blocks-advanced-columns-overlay\"><\/div><div class=\"innerblocks-wrap\">\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-0567c16a\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-78b7b5d0\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-78b7b5d0\">Here for you<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-b265261c\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-b265261c\">Call us 24\/7. We are there for your support.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-84250375\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-eae72deb\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-eae72deb\">About Neve<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-5085f582\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-5085f582\">Res enim fortasse verae, certe graves.<\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-9628a24c\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-63cd76fa\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-63cd76fa\">Where to find us<\/h6>\n\n\n\n<p id=\"wp-block-themeisle-blocks-advanced-heading-1a6eb528\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-1a6eb528\">42 Boulevard, California, number 23<\/p>\n\n\n\n<p><\/p>\n<\/div>\n<\/div>\n\n\n\n<div class=\"wp-block-themeisle-blocks-advanced-column\" id=\"wp-block-themeisle-blocks-advanced-column-f35de950\">\n<div class=\"wp-block-themeisle-blocks-service\">\n<h6 id=\"wp-block-themeisle-blocks-advanced-heading-136d7980\" class=\"wp-block-themeisle-blocks-advanced-heading wp-block-themeisle-blocks-advanced-heading-136d7980\">Keep in touch<\/h6>\n\n\n<\/div>\n<\/div>\n<\/div><\/div>\n<\/div>\n<\/div><\/div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 0,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "page-templates\/template-pagebuilder-full-width.php",
+    "meta": {
+      "neve_meta_sidebar": "full-width",
+      "neve_meta_container": "full-width",
+      "neve_meta_enable_content_width": "off",
+      "neve_meta_content_width": 0,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "on"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/645"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/types\/page"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/comments?post=645"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/645\/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/media?parent=645"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 728,
+    "date": "2018-12-11T13:55:35",
+    "date_gmt": "2018-12-11T13:55:35",
+    "guid": {
+      "rendered": "http:\/\/angelm106.sg-host.com\/?page_id=6"
+    },
+    "modified": "2018-12-11T13:55:35",
+    "modified_gmt": "2018-12-11T13:55:35",
+    "slug": "blog",
+    "status": "publish",
+    "type": "page",
+    "link": " https:\/\/example..com\/blog\/",
+    "title": {
+      "rendered": "Blog"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 0,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "neve_meta_sidebar": "",
+      "neve_meta_container": "",
+      "neve_meta_enable_content_width": "",
+      "neve_meta_content_width": 70,
+      "neve_meta_title_alignment": "",
+      "neve_meta_author_avatar": "",
+      "neve_post_elements_order": "",
+      "neve_meta_disable_header": "",
+      "neve_meta_disable_footer": "",
+      "neve_meta_disable_title": "on"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/728"
+        }
+      ],
+      "collection": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/types\/page"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/comments?post=728"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 0,
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/pages\/728\/revisions"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": " https:\/\/example..com\/wp-json\/wp\/v2\/media?parent=728"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https:\/\/api.w.org\/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
 ]
