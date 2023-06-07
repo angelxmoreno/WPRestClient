@@ -8,9 +8,12 @@ use Cake\Utility\Inflector;
 use GuzzleHttp\Exception\GuzzleException;
 use WPRestClient\Core\ApiClient;
 use WPRestClient\Core\Entity\EntityBase;
+use WPRestClient\Core\MemoizedTrait;
 
 abstract class RepositoryBase implements RepositoryInterface
 {
+    use MemoizedTrait;
+
     protected static ApiClient $apiClient;
     protected static ?string $path = null;
     protected static ?string $entityClass = null;
@@ -63,6 +66,8 @@ abstract class RepositoryBase implements RepositoryInterface
     public static function fetch(array $params = []): array
     {
         $response = self::getApiClient()->sendRequest('get', self::getPath(), $params);
+        static::addBatchMemoize($response['data']);
+
         $entityClass = static::getEntityClass();
         $entities = [];
         foreach ($response['data'] as $datum) {
@@ -76,8 +81,14 @@ abstract class RepositoryBase implements RepositoryInterface
      */
     public static function get(int $id, array $params = []): EntityBase
     {
-        $response = self::getApiClient()->sendRequest('get', self::getPath() . '/' . $id, $params);
+        $result = static::getMemoize($id);
+        if (is_null($result)) {
+            $response = self::getApiClient()->sendRequest('get', self::getPath() . '/' . $id, $params);
+            $result = $response['data'];
+            static::addMemoize($result);
+        }
+
         $entityClass = static::getEntityClass();
-        return new $entityClass($response['data']);
+        return new $entityClass($result);
     }
 }
