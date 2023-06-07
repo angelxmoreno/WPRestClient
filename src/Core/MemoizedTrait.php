@@ -25,6 +25,11 @@ trait MemoizedTrait
         }
     }
 
+    /**
+     * @param int $key
+     * @return array|null
+     * @SuppressWarnings(PHPMD.UndefinedVariable) see https://github.com/phpmd/phpmd/issues/714
+     */
     protected static function getMemoize(int $key): ?array
     {
         return static::$_memoized[$key] ?? null;
