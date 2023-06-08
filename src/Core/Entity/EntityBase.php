@@ -7,11 +7,12 @@ namespace WPRestClient\Core\Entity;
 use Cake\Utility\Hash;
 use Cake\Utility\Inflector;
 use Exception;
+use JsonSerializable;
 use ReflectionClass;
 use ReflectionProperty;
 use RuntimeException;
 
-class EntityBase
+class EntityBase implements JsonSerializable
 {
     protected int $id;
     protected array $_properties = [];
@@ -65,6 +66,17 @@ class EntityBase
 
     public static function propertyToMethod(string $type, string $propertyName): string
     {
-        return Inflector::camelize($type . '_' . $propertyName);
+        return strtolower($type) . Inflector::camelize($propertyName);
+    }
+
+    public function jsonSerialize(): array
+    {
+        $data = [];
+        foreach ($this->_properties as $property) {
+            $getter = static::propertyToMethod('get', $property);
+            $data[$property] = $this->{$getter}();
+        }
+
+        return $data;
     }
 }
