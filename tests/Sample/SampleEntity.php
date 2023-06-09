@@ -9,7 +9,6 @@ use WPRestClient\Core\Entity\EntityBase;
 
 class SampleEntity extends EntityBase
 {
-    protected int $id;
     protected string $name;
     protected int $age;
     public bool $passed;

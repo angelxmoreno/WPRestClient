@@ -64,4 +64,26 @@ describe(EntityBase::class, function () {
             $sampleEntity->getUnknown();
         })->toThrow(new RuntimeException($message));
     });
+
+    it('is serializable', function () {
+        $expected = $data = [
+            'id' => 123,
+            'name' => [
+                'rendered' => 'John',
+            ],
+            'age' => DateTime::createFromFormat('Y', '2000'),
+            'passed' => true,
+        ];
+
+        $expected['name'] = $data['name']['rendered'];
+        $expected['age'] = date('Y') - 2000;
+        $expected['passed'] = 'OK';
+
+        $sampleEntity = new SampleEntity($data);
+        $actual = $sampleEntity->jsonSerialize();
+        foreach ($expected as $k => $v) {
+            expect($actual)->toContainKey($k);
+            expect($actual[$k])->toBe($v);
+        }
+    });
 });

@@ -24,4 +24,8 @@ interface RepositoryInterface
      * @return EntityBase[]
      */
     public static function fetch(array $params = []): array;
+
+    public static function save(EntityBase $entity): EntityBase;
+
+    public static function delete(EntityBase $entity): ?array;
 }

@@ -61,4 +61,35 @@ describe(MemoizedTrait::class, function () {
             expect($result2)->toBe($data[1]);
         });
     });
+
+    describe('::removeMemoize', function () {
+        it('removes memoized data', function () {
+            $data = [
+                ['id' => 123, 'name' => 'Some Name'],
+                ['id' => 456, 'name' => 'Some Other Name'],
+            ];
+            $object = new SamplesRepository();
+            $reflection = new ReflectionClass($object);
+
+            $addBatchMemoize = $reflection->getMethod('addBatchMemoize');
+            $addBatchMemoize->setAccessible(true);
+            $addBatchMemoize->invoke($object, $data);
+
+            $getMemoize = $reflection->getMethod('getMemoize');
+            $getMemoize->setAccessible(true);
+
+            $removeMemoize = $reflection->getMethod('removeMemoize');
+            $removeMemoize->setAccessible(true);
+
+            $result1 = $getMemoize->invoke($object, 123);
+            $result2 = $getMemoize->invoke($object, 456);
+
+            expect($result1)->toBe($data[0]);
+            expect($result2)->toBe($data[1]);
+
+            $removeMemoize->invoke($object, 123);
+            $result1 = $getMemoize->invoke($object, 123);
+            expect($result1)->toBeNull();
+        });
+    });
 });

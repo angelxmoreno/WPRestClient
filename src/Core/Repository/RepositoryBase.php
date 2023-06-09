@@ -7,8 +7,10 @@ namespace WPRestClient\Core\Repository;
 use Cake\Utility\Inflector;
 use GuzzleHttp\Exception\GuzzleException;
 use WPRestClient\Core\ApiClient;
+use WPRestClient\Core\ApiResponseException;
 use WPRestClient\Core\Entity\EntityBase;
 use WPRestClient\Core\MemoizedTrait;
+use WPRestClient\Util\ArrayDiffRecursive;
 
 abstract class RepositoryBase implements RepositoryInterface
 {
@@ -61,7 +63,7 @@ abstract class RepositoryBase implements RepositoryInterface
     }
 
     /**
-     * @throws GuzzleException
+     * @throws GuzzleException|ApiResponseException
      */
     public static function fetch(array $params = []): array
     {
@@ -77,7 +79,7 @@ abstract class RepositoryBase implements RepositoryInterface
     }
 
     /**
-     * @throws GuzzleException
+     * @throws GuzzleException|ApiResponseException
      */
     public static function get(int $id, array $params = []): EntityBase
     {
@@ -90,5 +92,60 @@ abstract class RepositoryBase implements RepositoryInterface
 
         $entityClass = static::getEntityClass();
         return new $entityClass($result);
+    }
+
+    /**
+     * @throws GuzzleException|ApiResponseException
+     */
+    public static function save(EntityBase $entity): EntityBase
+    {
+        return is_null($entity->getId())
+            ? self::create($entity->jsonSerialize())
+            : self::update($entity);
+    }
+
+    /**
+     * @throws GuzzleException|ApiResponseException
+     */
+    protected static function create(array $params = []): EntityBase
+    {
+        $response = self::getApiClient()->sendRequest('post', self::getPath(), $params);
+        $data = $response['data'] ?? null;
+        if (!is_null($data)) {
+            static::addMemoize($data);
+        }
+
+        $entityClass = static::getEntityClass();
+        return new $entityClass($data);
+    }
+
+    /**
+     * @throws GuzzleException|ApiResponseException
+     */
+    protected static function update(EntityBase $entity): ?EntityBase
+    {
+        $original = self::get($entity->getId());
+        $diff = ArrayDiffRecursive::diff($entity->jsonSerialize(), $original->jsonSerialize());
+        $response = self::getApiClient()->sendRequest('put', self::getPath() . '/' . $entity->getId(), $diff);
+        $data = $response['data'] ?? null;
+        if (!is_null($data)) {
+            static::addMemoize($data);
+        }
+
+        $entityClass = static::getEntityClass();
+        return new $entityClass($data);
+    }
+
+    /**
+     * @throws GuzzleException|ApiResponseException
+     */
+    public static function delete(EntityBase $entity): array
+    {
+        $response = self::getApiClient()->sendRequest('delete', self::getPath() . '/' . $entity->getId());
+        static::removeMemoize($entity->getId());
+        $data = $response['data'] ?? null;
+        $entityClass = static::getEntityClass();
+
+        return (new $entityClass($data))->jsonSerialize();
     }
 }
