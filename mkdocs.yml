@@ -1,4 +1,7 @@
 site_name: WPRestClient
+theme:
+  name: litera
+  nav_style: light
 nav:
   - Home: 'index.md'
   - 'installation.md'
