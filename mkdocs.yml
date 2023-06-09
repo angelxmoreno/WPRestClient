@@ -1,0 +1,13 @@
+site_name: WPRestClient
+nav:
+  - Home: 'index.md'
+  - 'installation.md'
+  - 'quickstart.md'
+  - 'Usage':
+      - 'usage/using_repositories.md'
+      - 'usage/using_client.md'
+  - 'Extending':
+      - 'extending/api-prefix.md'
+      - 'extending/entity.md'
+      - 'extending/repository.md'
+  - 'Contributing': 'contributing.md'
