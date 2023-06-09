@@ -34,4 +34,14 @@ trait MemoizedTrait
     {
         return static::$_memoized[$key] ?? null;
     }
+
+    /**
+     * @param int $key
+     * @return void
+     * @SuppressWarnings(PHPMD.UndefinedVariable) see https://github.com/phpmd/phpmd/issues/714
+     */
+    protected static function removeMemoize(int $key): void
+    {
+        unset(static::$_memoized[$key]);
+    }
 }
