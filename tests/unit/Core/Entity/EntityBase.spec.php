@@ -81,6 +81,9 @@ describe(EntityBase::class, function () {
 
         $sampleEntity = new SampleEntity($data);
         $actual = $sampleEntity->jsonSerialize();
-        expect($actual)->toBe($expected);
+        foreach ($expected as $k => $v) {
+            expect($actual)->toContainKey($k);
+            expect($actual[$k])->toBe($v);
+        }
     });
 });

@@ -7,7 +7,9 @@ declare(strict_types=1);
 use Kahlan\Plugin\Double;
 use Psr\Http\Message\RequestInterface;
 use WPRestClient\Core\ApiClient;
+use WPRestClient\Core\ApiResponseException;
 use WPRestClient\Core\AuthInterface;
+use WPRestClient\Test\Helpers\ExceptionBuilder;
 use WPRestClient\Test\Helpers\GuzzleMockBuilder;
 
 describe(ApiClient::class, function () {
@@ -34,6 +36,18 @@ describe(ApiClient::class, function () {
             expect($auth)->toReceive('withAuth')->once();
             $data = $api->sendRequest('get', '/users/');
             expect($data)->toBeAn('array');
+        });
+
+        it('throws an exception on server error', function () {
+            $httpClient = GuzzleMockBuilder::withFixture('users');
+            $clientException = ExceptionBuilder::clientException();
+            allow($httpClient)->toReceive('send')->andRun(function () use ($clientException) {
+                throw $clientException;
+            });
+            $api = new ApiClient('https://example.wp.com', $httpClient);
+            expect(function () use ($api) {
+                $api->sendRequest('get', '/users/');
+            })->toThrow(new ApiResponseException($clientException->getMessage(), $clientException->getCode()));
         });
     });
 });

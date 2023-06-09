@@ -5,9 +5,11 @@ declare(strict_types=1);
 namespace WPRestClient\Core;
 
 use GuzzleHttp\Client;
+use GuzzleHttp\Exception\ClientException;
 use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Psr7\Request;
 use Psr\Http\Message\RequestInterface;
+use GuzzleHttp\Psr7\Utils;
 
 class ApiClient
 {
@@ -58,15 +60,21 @@ class ApiClient
     }
 
     /**
-     * @throws GuzzleException
+     * @throws GuzzleException|ApiResponseException
      */
     public function sendRequest(string $method, string $uri, array $data = []): array
     {
+        $method = strtolower($method);
         $url = $this->buildFullUri($uri);
         if (strtolower($method) === 'get') {
             $url .= http_build_query($data);
         }
-        $request = new Request($method, $url);
+        $request = new Request($method, $url, ['Content-Type' => 'application/json']);
+        if ($request->getMethod() !== 'get') {
+            $body = Utils::streamFor(json_encode($data));
+            $request = $request->withBody($body);
+        }
+
         if ($this->getAuth()) {
             $request = $this->getAuth()->withAuth($request);
         }
@@ -75,13 +83,18 @@ class ApiClient
 
     /**
      * @throws GuzzleException
+     * @throws ApiResponseException
      */
     protected function doRequest(RequestInterface $request): array
     {
-        $response = $this->httpClient->send($request);
-        $jsonString = $response->getBody()->getContents();
-        $data = json_decode($jsonString, true);
-        $headers = $response->getHeaders();
-        return compact('data', 'headers');
+        try {
+            $response = $this->httpClient->send($request);
+            $jsonString = $response->getBody()->getContents();
+            $data = json_decode($jsonString, true);
+            $headers = $response->getHeaders();
+            return compact('data', 'headers');
+        } catch (ClientException $exception) {
+            throw ApiResponseException::fromClientException($exception);
+        }
     }
 }

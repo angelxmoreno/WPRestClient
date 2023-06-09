@@ -12,9 +12,12 @@ use ReflectionClass;
 use ReflectionProperty;
 use RuntimeException;
 
+/**
+ * @method int|null getId()
+ */
 class EntityBase implements JsonSerializable
 {
-    protected int $id;
+    protected ?int $id;
     protected array $_properties = [];
 
     /**
@@ -54,6 +57,10 @@ class EntityBase implements JsonSerializable
         $propertyName = self::methodToProperty($methodName);
         if (str_starts_with($methodName, 'get') && in_array($propertyName, $this->_properties)) {
             return $this->{$propertyName};
+        }
+
+        if (str_starts_with($methodName, 'set') && in_array($propertyName, $this->_properties)) {
+            return $this->{$propertyName} = current($arguments);
         }
 
         throw new RuntimeException(sprintf('method "%s" does not exist in class "%s"', $methodName, get_class($this)));
