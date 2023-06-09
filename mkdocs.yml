@@ -7,10 +7,11 @@ nav:
   - 'installation.md'
   - 'quickstart.md'
   - 'Usage':
-      - 'usage/using_repositories.md'
-      - 'usage/using_client.md'
+      - 'usage/repositories.md'
+      - 'usage/client.md'
   - 'Extending':
-      - 'extending/api-prefix.md'
-      - 'extending/entity.md'
-      - 'extending/repository.md'
+      - ApiPrefix: 'extending/api-prefix.md'
+      - Entities: 'extending/entity.md'
+      - Repositories: 'extending/repository.md'
+      - Authentication: 'extending/authentication.md'
   - 'Contributing': 'contributing.md'

@@ -13,7 +13,7 @@ conduct within our project community.
 There are several ways you can contribute to WPRestClient:
 
 1. **Reporting Issues:** If you come across any bugs, issues, or have feature requests, please open an issue on
-   our [GitHub repository](link-to-issues) and provide a detailed description.
+   our [GitHub repository](https://github.com/angelxmoreno/WPRestClient/issues) and provide a detailed description.
 
 2. **Bug Fixes and Enhancements:** You can contribute by fixing bugs or enhancing existing features. Fork the
    repository, make your changes in a new branch, and submit a pull request.
