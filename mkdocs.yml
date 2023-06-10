@@ -2,6 +2,8 @@ site_name: WPRestClient
 theme:
   name: litera
   nav_style: light
+markdown_extensions:
+  admonition: { }
 nav:
   - Home: 'index.md'
   - 'installation.md'
