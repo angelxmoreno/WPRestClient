@@ -11,7 +11,7 @@ class RegistryFactory
 {
     public static function basicAuthConnection(string $domain, string $username, string $password): RepositoryRegistry
     {
-        $httpClient = new Client(['verify' => false]);
+        $httpClient = new Client();
         $auth = new BasicAuth($username, $password);
         $apiClient = new ApiClient($domain, $httpClient, $auth);
         return new RepositoryRegistry($apiClient);
