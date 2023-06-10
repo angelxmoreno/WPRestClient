@@ -1,8 +1,13 @@
 site_name: WPRestClient
+site_url: https://wprestclient.readthedocs.io/en/latest/
 google_analytics: [ 'UA-273283893-1', 'wprestclient.readthedocs.io' ]
+repo_url: https://github.com/angelxmoreno/WPRestClient
+edit_uri: blob/main/docs
 theme:
   name: litera
   nav_style: light
+  static_templates:
+    - google35cf045b7d0f95b7.html
 markdown_extensions:
   admonition: { }
 nav:
