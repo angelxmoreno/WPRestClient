@@ -6,7 +6,10 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/angelxmoreno/WPRestClient/graphs/commit-activity)
 
 ![WPRestClient Logo](docs/assets/WPRestClient.github.png)
-###<p style="text-align: center;">a PHP WordPress API Client</p>
+
+<h3 align="center">
+a PHP WordPress API Client
+</h3>
 
 WPRestClient is a PHP library for seamless interaction with WordPress sites via the WordPress RESTful API, simplifying
 authentication, data retrieval, and content management tasks
