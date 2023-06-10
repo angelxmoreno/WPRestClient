@@ -1,5 +1,5 @@
 site_name: WPRestClient
-site_url: https://wprestclient.readthedocs.io
+site_url: https://wprestclient.readthedocs.io/en/latest/
 google_analytics: [ 'UA-273283893-1', 'wprestclient.readthedocs.io' ]
 repo_url: https://github.com/angelxmoreno/WPRestClient
 edit_uri: blob/main/docs
