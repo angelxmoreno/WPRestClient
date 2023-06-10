@@ -1,3 +1,10 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7758d9f654bf4d07b130c93931205d09)](https://app.codacy.com/gh/angelxmoreno/WPRestClient/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![codecov](https://codecov.io/gh/angelxmoreno/WPRestClient/branch/main/graph/badge.svg?token=305MXLJG9J)](https://codecov.io/gh/angelxmoreno/WPRestClient)
+[![GitHub license](https://badgen.net/github/license/angelxmoreno/WPRestClient)](https://github.com/angelxmoreno/WPRestClient/blob/master/LICENSE)
+![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)
+![PHP Version 7.4+](https://img.shields.io/badge/php-7.4%2B-blue)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/angelxmoreno/WPRestClient/graphs/commit-activity)
+
 ![WPRestClient Logo](docs/assets/WPRestClient.github.png)
 ###<p style="text-align: center;">a PHP WordPress API Client</p>
 
