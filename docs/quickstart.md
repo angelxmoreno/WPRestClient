@@ -4,7 +4,7 @@ To get started you will need
 
 1. WordPress site
 2. A username and
-   an [application password](https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/)
+   an [application password](misc/application-password.md)
 
 For the rest of this guide we will be using the following credentials:
 
