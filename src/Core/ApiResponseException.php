@@ -40,7 +40,6 @@ class ApiResponseException extends Exception
     public static function fromClientException(ClientException $clientException): ApiResponseException
     {
         $contents = $clientException->getResponse()->getBody()->getContents();
-        var_dump($contents);
         $responseBody = json_decode($contents);
         $exception = new self($responseBody->message, $responseBody->data->status, $clientException);
         $exception->setType($responseBody->code);

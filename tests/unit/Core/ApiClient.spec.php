@@ -13,6 +13,15 @@ use WPRestClient\Test\Helpers\ExceptionBuilder;
 use WPRestClient\Test\Helpers\GuzzleMockBuilder;
 
 describe(ApiClient::class, function () {
+    describe('->setApiPrefix()', function () {
+        it('sets the prefix', function () {
+            $prefix = 'rest-ful';
+            $api = new ApiClient('https://example.wp.com');
+            $api->setApiPrefix($prefix);
+            expect($api->getApiPrefix())->toBe($prefix);
+        });
+    });
+
     describe('->sendRequest()', function () {
         it('returns an array', function () {
             $httpClient = GuzzleMockBuilder::withFixture('users');

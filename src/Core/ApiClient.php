@@ -39,6 +39,16 @@ class ApiClient
     }
 
     /**
+     * @param string $apiPrefix
+     * @return ApiClient
+     */
+    public function setApiPrefix(string $apiPrefix): ApiClient
+    {
+        $this->api_prefix = $apiPrefix;
+        return $this;
+    }
+
+    /**
      * @return AuthInterface|null
      */
     public function getAuth(): ?AuthInterface

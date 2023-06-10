@@ -1,0 +1,19 @@
+site_name: WPRestClient
+theme:
+  name: litera
+  nav_style: light
+markdown_extensions:
+  admonition: { }
+nav:
+  - Home: 'index.md'
+  - 'installation.md'
+  - 'quickstart.md'
+  - 'Usage':
+      - 'usage/repositories.md'
+      - 'usage/client.md'
+  - 'Extending':
+      - ApiPrefix: 'extending/api-prefix.md'
+      - Entities: 'extending/entity.md'
+      - Repositories: 'extending/repository.md'
+      - Authentication: 'extending/authentication.md'
+  - 'Contributing': 'contributing.md'

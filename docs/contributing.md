@@ -5,7 +5,7 @@ please take a moment to review the following guidelines.
 
 ## Code of Conduct
 
-Please familiarize yourself with our [Code of Conduct](CODE_OF_CONDUCT.md) to understand the expected behavior and
+Please familiarize yourself with our [Code of Conduct](code_of_conduct.md) to understand the expected behavior and
 conduct within our project community.
 
 ## Ways to Contribute
