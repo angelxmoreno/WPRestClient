@@ -1,4 +1,5 @@
 site_name: WPRestClient
+google_analytics: [ 'UA-273283893-1', 'wprestclient.readthedocs.io' ]
 theme:
   name: litera
   nav_style: light
