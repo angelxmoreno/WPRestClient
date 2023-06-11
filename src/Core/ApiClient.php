@@ -77,7 +77,7 @@ class ApiClient
         $method = strtolower($method);
         $url = $this->buildFullUri($uri);
         if (strtolower($method) === 'get') {
-            $url .= http_build_query($data);
+            $url .= '?' . http_build_query($data);
         }
         $request = new Request($method, $url, ['Content-Type' => 'application/json']);
         if ($request->getMethod() !== 'get') {
