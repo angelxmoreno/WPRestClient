@@ -8,6 +8,7 @@ declare(strict_types=1);
 
 use WPRestClient\Core\ApiClient;
 use WPRestClient\Core\Entity\EntityBase;
+use WPRestClient\Core\Pagination\PaginatedResult;
 use WPRestClient\Core\Repository\RepositoryBase;
 use WPRestClient\Entity\PostEntity;
 use WPRestClient\Repository\PostsRepository;
@@ -81,6 +82,33 @@ describe(RepositoryBase::class, function () {
             $entity = new PostEntity(Fixture::load('post'));
             expect($api)->toReceive('sendRequest')->with('delete', 'posts/' . $entity->getId());
             PostsRepository::delete($entity);
+        });
+    });
+
+    describe('::fetchPaginated', function () {
+        it('returns an instance of ' . PaginatedResult::class, function () {
+            $httpClient = GuzzleMockBuilder::withFixture('posts');
+            $api = new ApiClient('https://example.wp.com', $httpClient);
+            PostsRepository::setApiClient($api);
+            $data = Fixture::load('posts');
+            $entities = [];
+            foreach ($data as $datum) {
+                $entities[] = new PostEntity($datum);
+            }
+
+            $params = [
+                'per_page' => 3,
+                'page' => 2,
+            ];
+
+            expect($api)->toReceive('sendRequest')->with('get', 'posts', $params);
+            $paginatedResult = PostsRepository::fetchPaginated($params);
+
+            expect($paginatedResult)->toBeAnInstanceOf(PaginatedResult::class);
+            $items = $paginatedResult->getItems();
+            foreach ($items as $index => $entity) {
+                expect($entity->getId())->toBe($entities[$index]->getId());
+            }
         });
     });
 });
