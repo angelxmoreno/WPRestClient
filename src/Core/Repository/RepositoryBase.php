@@ -4,12 +4,14 @@ declare(strict_types=1);
 
 namespace WPRestClient\Core\Repository;
 
+use Cake\Utility\Hash;
 use Cake\Utility\Inflector;
 use GuzzleHttp\Exception\GuzzleException;
 use WPRestClient\Core\ApiClient;
 use WPRestClient\Core\ApiResponseException;
 use WPRestClient\Core\Entity\EntityBase;
 use WPRestClient\Core\MemoizedTrait;
+use WPRestClient\Core\Pagination\PaginatedResult;
 use WPRestClient\Util\ArrayDiffRecursive;
 
 abstract class RepositoryBase implements RepositoryInterface
@@ -77,6 +79,31 @@ abstract class RepositoryBase implements RepositoryInterface
         }
         return $entities;
     }
+
+    /**
+     * @throws GuzzleException|ApiResponseException
+     */
+    public static function fetchPaginated(array $params = []): PaginatedResult
+    {
+        $params = array_merge([
+            'per_page' => 20,
+            'page' => 1,
+        ], $params);
+        $response = self::getApiClient()->sendRequest('get', self::getPath(), $params);
+        static::addBatchMemoize($response['data']);
+
+        $entityClass = static::getEntityClass();
+        $entities = [];
+        foreach ($response['data'] as $datum) {
+            $entities[] = new $entityClass($datum);
+        }
+
+        $page = Hash::get($params, 'page');
+        $limit = Hash::get($params, 'per_page');
+        $totalItems = (int)Hash::get($response['headers'], 'X-WP-Total.0', 1);
+        return new PaginatedResult($entities, $page, $limit, $totalItems);
+    }
+
 
     /**
      * @throws GuzzleException|ApiResponseException
