@@ -100,7 +100,7 @@ abstract class RepositoryBase implements RepositoryInterface
 
         $page = Hash::get($params, 'page');
         $limit = Hash::get($params, 'per_page');
-        $totalItems = Hash::get($response['headers'], 'X-WP-Total', 1);
+        $totalItems = (int)Hash::get($response['headers'], 'X-WP-Total.0', 1);
         return new PaginatedResult($entities, $page, $limit, $totalItems);
     }
 

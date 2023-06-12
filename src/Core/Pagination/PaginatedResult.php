@@ -22,4 +22,20 @@ class PaginatedResult
         $this->items = $items;
         $this->pagination = new Pagination($page, $limit, $totalItems);
     }
+
+    /**
+     * @return array
+     */
+    public function getItems(): array
+    {
+        return $this->items;
+    }
+
+    /**
+     * @return Pagination
+     */
+    public function getPagination(): Pagination
+    {
+        return $this->pagination;
+    }
 }
