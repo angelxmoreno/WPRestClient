@@ -4,6 +4,7 @@ declare(strict_types=1);
 
 namespace WPRestClient\Core;
 
+use Cake\Collection\Collection;
 use Cake\Utility\Hash;
 
 trait MemoizedTrait
@@ -43,5 +44,10 @@ trait MemoizedTrait
     protected static function removeMemoize(int $key): void
     {
         unset(static::$_memoized[$key]);
+    }
+
+    protected static function getMemoizedCollection(): Collection
+    {
+        return new Collection(self::$_memoized);
     }
 }
