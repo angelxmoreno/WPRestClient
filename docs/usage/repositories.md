@@ -68,6 +68,24 @@ $postEntitiesArray = $registry->posts()->fetch($args);
 
     Learn what arguments are available to you for each respository by visiting the [WordPress Rest API Reference](https://developer.wordpress.org/rest-api/reference/).
 
+## Repository::fetchPaginated()
+
+The `fetchPaginated()` method is a wrapper for the `fetch` method. It takes the same parameters as the `fetch()` method
+and returns a `PaginatedResult` object.
+
+```php
+$args = [
+    'per_page' => 5,
+];
+$paginatedResult = $registry->posts()->fetchPaginated($args);
+$totalItems = $paginatedResult->getPagination()->getTotalItems();
+$postEntitiesArray = $paginatedResult->getItems();
+```
+
+!!! note
+
+    Learn more about [Pagination objects](pagination.md)
+
 ## Repository::save()
 
 The `save()` method takes an entity and either creates or updates content. If the entity has an `id` the repository
@@ -91,6 +109,15 @@ $entity = $registry->pages()->save($entity);
 !!! note
 
     Learn what arguments are available to you for each respository by visiting the [WordPress Rest API Reference](https://developer.wordpress.org/rest-api/reference/).
+
+## Repository::delete()
+
+The `delete()` method takes an entity and deletes the content remotely.
+
+```php
+$entity = $registry->tags()->get(1);
+$registry->tags()->delete($entity);
+```
 
 ## Repository::delete()
 

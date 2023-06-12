@@ -15,6 +15,7 @@ authentication, data retrieval, and content management tasks
 
 - Connect to WordPress sites and authenticate using REST API authentication methods.
 - Retrieve posts, pages, custom post types, categories, tags and other WordPress entities.
+- Get [paginated results](usage/repositories.md#repositoryfetchpaginated) of WordPress entities
 - Create, update and delete posts and pages.
 - Perform advanced queries and filter responses using the power of the WordPress RESTful API.
 - Use the [APIClient](usage/client.md) for low level calls
