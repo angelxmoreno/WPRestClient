@@ -47,12 +47,12 @@ jobs:
       - name: Run Tests
         run: composer test-ci
 
-      - name: Upload to Codecov
-        uses: codecov/codecov-action@v2
-        with:
-          token: ${{ secrets.CODE_COV_TOKEN }}
-          files: coverage.info
-          verbose: true
+#      - name: Upload to Codecov
+#        uses: codecov/codecov-action@v2
+#        with:
+#          token: ${{ secrets.CODE_COV_TOKEN }}
+#          files: coverage.info
+#          verbose: true
 
-      - name: Upload to Codacy
-        run: bash <(curl -Ls https://coverage.codacy.com/get.sh) report -r coverage.info --project-token=${{ secrets.CODACY_PROJECT_TOKEN }}
+#      - name: Upload to Codacy
+#        run: bash <(curl -Ls https://coverage.codacy.com/get.sh) report -r coverage.info --project-token=${{ secrets.CODACY_PROJECT_TOKEN }}
