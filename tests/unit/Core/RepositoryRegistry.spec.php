@@ -44,7 +44,7 @@ describe(RepositoryRegistry::class, function () {
         describe('when the class does not exist', function () {
             it('throws an exception', function () {
                 $className = 'Foo';
-                $message = sprintf('%s can not be found', $className);
+                $message = sprintf('%s cannot be found', $className);
                 expect(function () use ($className) {
                     $this->registry->addRepository($className, 'foo');
                 })->toThrow(new UnexpectedValueException($message));
